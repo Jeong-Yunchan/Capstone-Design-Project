@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NSchat</string>
+    <string name="test_text">함께 금연을\n시작해 볼까요?</string>
+    <string name="how_many_cigar">평소 하루에 몇개비\n정도 피우셨나요?</string>
+    <string name="like">좋아요!</string>
+</resources>
