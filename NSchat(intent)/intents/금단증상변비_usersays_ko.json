@@ -1,0 +1,178 @@
+[
+  {
+    "id": "d795ed99-1fde-4201-930c-44a57e975b74",
+    "data": [
+      {
+        "text": "갑자기 기침",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "82b19177-c822-415f-86c3-f1cb712806f9",
+    "data": [
+      {
+        "text": "갑자기 ",
+        "userDefined": false
+      },
+      {
+        "text": "변비",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fb973faf-79a5-4c31-be72-d7f03bea673f",
+    "data": [
+      {
+        "text": "변비",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "693c17f7-6307-4fc0-8e75-1e0363fd7572",
+    "data": [
+      {
+        "text": "기침",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9ffe364d-bb97-4d63-b47f-6b2b7a21e0e8",
+    "data": [
+      {
+        "text": "기침",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 많이 나오는것같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "48178dec-747e-486d-b01e-5b0c870aeac9",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하고 기침",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 많이 나와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "eb051a02-b29b-456d-a019-0cd84518fa93",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하고 ",
+        "userDefined": false
+      },
+      {
+        "text": "변비",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "가 있는것같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1d5d5f34-ffb6-4a33-bca9-9b6586bedec6",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "한",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 이유로 ",
+        "userDefined": false
+      },
+      {
+        "text": "변비",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "가 있어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

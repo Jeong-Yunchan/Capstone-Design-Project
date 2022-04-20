@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f5da1d35-7e65-4328-88b5-f86ff5582b29",
+    "data": [
+      {
+        "text": "까치야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6d1750bc-de02-445f-813b-190cce2f8be5",
+    "data": [
+      {
+        "text": "야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "id": "e84bcaa4-8f15-48e6-b082-a46dcc90ea5f",
+    "data": [
+      {
+        "text": "나",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 민감",
+        "userDefined": false
+      },
+      {
+        "text": "해진",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7fa72eaf-56f5-4561-9fd3-8d7b9e4d5139",
+    "data": [
+      {
+        "text": "나",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 예민해졌어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "35c49993-6acc-4375-8558-26769f88b518",
+    "data": [
+      {
+        "text": "나",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "예민",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해진",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0a28b681-1f30-4b6e-b9a9-f1a1bfbb83f6",
+    "data": [
+      {
+        "text": "신경이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 날카",
+        "userDefined": false
+      },
+      {
+        "text": "로",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "워진 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2c640f08-a21d-4786-b328-0d52bf729de2",
+    "data": [
+      {
+        "text": "너무 민감",
+        "userDefined": false
+      },
+      {
+        "text": "해진",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "37e0fec1-7b76-485b-ad5b-ee718e27aea2",
+    "data": [
+      {
+        "text": "너무 민감",
+        "userDefined": false
+      },
+      {
+        "text": "해진",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 것  같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cdc78d14-4fe9-4468-989c-3df38fa5a292",
+    "data": [
+      {
+        "text": "민감해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0fe37eda-3daf-46a9-88d5-cbf49deffc00",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을하고 민감해졌어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

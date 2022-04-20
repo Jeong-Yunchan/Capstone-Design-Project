@@ -1,0 +1,130 @@
+[
+  {
+    "id": "3cfbcb42-37b2-4dc2-a911-87eeb4550ef1",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 보조제를 소개해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3e5a9f70-460e-4fc7-bf58-0e27a09db513",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 보조제",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0729a8b7-760f-45f7-97c1-334e0b97bfc6",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 보조제의 도움",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d4c7523a-da0d-40ea-8935-9a0ab738013b",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 도와주는 물건",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c9162142-0f22-4a9c-983b-9d79d4bce511",
+    "data": [
+      {
+        "text": "보조제",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "90a894fb-fce4-4b86-9b9d-c5e9029be3cd",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 보조제에는 뭐가 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

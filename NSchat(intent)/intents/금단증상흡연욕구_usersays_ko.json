@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fd0fe66c-68f1-420c-88db-de379c7e9a75",
+    "data": [
+      {
+        "text": "담배",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "가 너무 땡겨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "18812830-5ec1-453d-9038-7802077314f8",
+    "data": [
+      {
+        "text": "너무 ",
+        "userDefined": false
+      },
+      {
+        "text": "담배",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "를 피고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

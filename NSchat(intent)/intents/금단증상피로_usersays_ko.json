@@ -1,0 +1,117 @@
+[
+  {
+    "id": "fab9d589-4220-4c17-921c-bd806946762d",
+    "data": [
+      {
+        "text": "피곤",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "한데",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "411bfbac-b08e-4f17-94f0-5d6b5b381c34",
+    "data": [
+      {
+        "text": "피로",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "706c9eb0-6b96-4baf-b777-5d2a2a540ae7",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하고 ",
+        "userDefined": false
+      },
+      {
+        "text": "피로",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "가 너무 있어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f26062e2-7737-405a-b98f-4be261e53c5a",
+    "data": [
+      {
+        "text": "피곤해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ae416310-1388-4b51-abd0-90b519b87cb8",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하고 너무 ",
+        "userDefined": false
+      },
+      {
+        "text": "피로",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

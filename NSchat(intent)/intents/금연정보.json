@@ -1,0 +1,90 @@
+{
+  "id": "ff63bd3c-69b1-4272-b113-24fe2d82178c",
+  "name": "금연정보",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a3110859-3dbc-49d9-a919-40e48d1eca00",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2e5c48d7-ccae-4214-9f91-14cd166285fb",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "846f1f55-2d55-4c57-830c-1e3f9a31d3fb",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "각 시·군 보건소에서는 다양한 금연클리닉을 개설하고 \n체내 일산화탄소량 측정과 체지방률 등 분석을 통해 \n개인에게 맞는 금연 방법을 제시하고 있답니다.",
+            "금연 7일에서 15일 전부터 금연을 준비하고 단숨에 끊는 것이 좋아요.",
+            "\"금연클리닉을 찾아 진료를 받는 것이 좋아요.\n금연클리닉 사이트(http://mdon.co.kr/mobile/article.html?no\u003d32373)\"",
+            "금연할 때는 첫 주를 잘 넘기세요. 사흘째에 본격적인 금단 증상이 시작되며 니코틴이 체내에서 배출되기까지 걸리는 시간은 3~7일 가량입니다.",
+            "새로운 습관을 만드세요. 간단하지만 지속적으로 깊은 호흡이 필요한 움직임을 자주 해보세요. 가쁜 숨을 몰아쉬며 잠시나마 담배 생각을 잊을 수 있을 겁니다.",
+            "의사와의 상담, 금연 보조제 등의 적극적인 방법으로 시작하세요.",
+            "8주나 12주짜리 금연 치료 프로그램을 이용해보세요. 3회차 방문부터는 치료비 전액을 국가에서 부담할 뿐만 아니라 프로그램 전체를 이수할 경우 본인이 낸 1, 2회차 치료비를 환급받을 수 있습니다.",
+            "강한 의지를 다지세요.",
+            "결심을 하셨으면 금연일을 정하시고 \n금연일은 대개 7~10일 후로 잡는 것이 좋습니다.\n너무 뒤로 잡으면 마음이 흐트러질 가능성이 높습니다. \n스트레스가 많은 때는 피하는 것이 좋습니다. \n시험을 앞두고 금연일을 잡으면 실패할 확률이 높습니다.",
+            "금단증상은 금연 후 3~4일에 가장 심해지고 \n3~4일에 가장 심해지고 2~3주 후면 없어집니다.",
+            "금연중에는 신선한 공기를 마시거나 운동을 하는 것이 좋습니다.",
+            "금연중에는 은단씹기, 무가당 껌 씹기, \n찬물 마시기, 양치질 등도 도움이 됩니다.",
+            "니코틴 패치와 니코틴 껌이 금연에 도움이 됩니다. \n이러한 방법은 의사의 도움을 받아서 사용하세요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

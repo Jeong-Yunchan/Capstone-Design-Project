@@ -1,0 +1,41 @@
+[
+  {
+    "id": "f5af4435-905c-40b0-a5df-988f4de3d880",
+    "data": [
+      {
+        "text": "ㄴ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "66ae467c-669e-4a75-950c-9b309e3e63b1",
+    "data": [
+      {
+        "text": "ㄴㄴ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "73c33179-134f-4b58-95a2-9d1d66f416eb",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

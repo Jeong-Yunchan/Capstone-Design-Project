@@ -1,0 +1,66 @@
+{
+  "id": "bb433b4e-b8d1-48e7-961c-db9f84cd51d5",
+  "name": "금연습관",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "947dc50d-d39c-4894-adfa-fb8292d416ff",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "담배가 생각날 때 대체할 것을 \n미리 정해두는 것을 추천해요",
+            "양치는 하셨어요? 양치질을 하는 것을 추천해요",
+            "냉수를 한잔 들이켜봐요~",
+            "\"담배가 생각날 때마다 즉각적으로 할 수 있는 것을 \n미리 준비해는 것이 도움이 된답니다.\"",
+            "뜨개질처럼 손을 많이 사용하는 일을 해봐요.",
+            "게임을 하는 것을 추천해요!",
+            "피아노 치기도 도움이 될 수 있어요.",
+            "담배 구배 비용을 아끼려면 피우지 않는 것이 좋아요!",
+            "운동이나 하세요. 운동을 해서 얻을 수 있는 도파민의 기쁨이 니코틴에서 오는 도파민의 기쁨보다 더 크고 강력하고 중독적이래요!",
+            "쌉소리 하지 마세요",
+            "징징대지 마세요",
+            "시끄러워요",
+            "\"스마트폰 알람기능을 이용해서 5분만 참아봐요.\n담배의 강력한 유혹은 5분 이내 절정을 이루고\n사라지는 경우가 많기 때문에 5분 참기가 도움이 될겁니다.\"",
+            "TV 프로그램이나 보죠",
+            "영화를 시청합시다.",
+            "차나 물을 마시며 깊은 쉼호흡을 해봐요.",
+            "산책이나 가는 것이 어때요?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

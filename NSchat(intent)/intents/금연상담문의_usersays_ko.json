@@ -1,0 +1,567 @@
+[
+  {
+    "id": "6673e9a1-dac0-4d91-b776-e735b052afe6",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "292b71ce-cb08-46d4-a71a-967a9918b5fd",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7823139b-698d-4e07-94ae-7bb2472ddf94",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 도움 필요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "85d1b5e7-8b76-469e-9c3a-90683f053d63",
+    "data": [
+      {
+        "text": "그면 도와줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6a0a20e8-936c-4cc1-9f3a-b92b154c1aad",
+    "data": [
+      {
+        "text": "그면도와줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "30b8429b-dba3-4c48-9e99-7573e9f23a19",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 도움",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c4e7af48-4ac6-458c-958c-e81becb98e9e",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4abd5907-b29e-4112-a1ab-d271eba9597d",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 도움",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "59899b5b-9966-4ac7-9bb5-e60fb4c93575",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 상담해주겠니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fb5b452f-9474-4bc1-a133-8e03bffba0c9",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "674ab016-4e26-4540-a697-ff2ca88113e6",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "상담이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b599248a-30e2-4146-90a3-3faadbfcf42c",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "도움",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "467177e9-9f7b-4788-acf2-ba492abd3f26",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하고 싶은데 어디서 도움을 받을 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 있을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4d6aebe3-789e-4c9d-9353-4a08187f3016",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 도와줄 ",
+        "userDefined": false
+      },
+      {
+        "text": "수",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 있니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "32db9311-e72e-4116-8bbe-9e4e38558d35",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "도움을 받고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b28835b7-c4e2-4d3d-8512-826e4c0f9b05",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 도와줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ca21979d-18bd-42ed-96d2-8572ed8bd736",
+    "data": [
+      {
+        "text": "금연에",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 도움을 줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8473b19a-3b6d-4169-a47b-fdffe208fb3f",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하는데 힘들어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0c5a077b-5956-4bf1-9823-762d29c408fc",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0db605d7-7e88-4808-8573-769f4b845a43",
+    "data": [
+      {
+        "text": "상담이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 필요해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bbb08715-70d4-4c95-84fa-aa2a3cbbfde7",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 받고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7d3b6886-da4d-4b06-b544-416c0abdd348",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "좀 해주라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "059ee0bb-da2b-4bd9-9254-b79da2199d5b",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "좀 해줘 ",
+        "userDefined": false
+      },
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "하기",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 힘들어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2908ad24-f075-407d-b23b-3eadc536b666",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 힘들다 ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "좀 해주라",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d61e63c8-4eba-4db6-b9e0-c1c76bffd720",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 부탁해 ",
+        "userDefined": false
+      },
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 힘들어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

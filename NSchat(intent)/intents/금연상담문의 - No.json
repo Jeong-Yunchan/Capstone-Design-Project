@@ -1,0 +1,57 @@
+{
+  "id": "7a3ad8e7-9e96-4310-873d-a6504fa60e5e",
+  "parentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "rootParentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "name": "금연상담문의 - No",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8483b852-46bb-4efc-a06a-96059b208504",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "1544-9030 으로 전화해보시면 되염 ^^\n월~금요일 오전 9시 ~오후 10시,\n주말 및 공휴일 오전 9시 ~6시에 가능해욤",
+            "금연상담전화번호는 1544-9030입니다.",
+            "금연상담전화 1544-9030을 통해서\n상담을 하시면 금연 유지 독려 및\n재흡연 방지 프로그램을 제공해준답니다.",
+            "금연상담전화 1544-9030"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "71fec358-737c-476c-871b-6304365fcd10",
+    "data": [
+      {
+        "text": "안녕",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "670a8c2e-7b65-4f41-b3aa-806745e67bcb",
+    "data": [
+      {
+        "text": "오랜만이야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a73d17dc-07a0-412e-ae07-64ce5ee02204",
+    "data": [
+      {
+        "text": "ㅎㅇㅎㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "70321649-67d8-4030-ac67-464a1255bc56",
+    "data": [
+      {
+        "text": "안녕하세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4fa37628-2f33-4619-895d-d8fc99f5ba2b",
+    "data": [
+      {
+        "text": "하이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e220ce05-5758-4e07-9396-8e3a1ae70014",
+    "data": [
+      {
+        "text": "안녕",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "???",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a6102c62-dab3-4733-b2e2-743196ba3fa1",
+    "data": [
+      {
+        "text": "안뇽",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b60cf150-82fa-4f1b-af50-bd961dd6375e",
+    "data": [
+      {
+        "text": "ㅎㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
