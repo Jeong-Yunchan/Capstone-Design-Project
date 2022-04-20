@@ -1,0 +1,99 @@
+[
+  {
+    "id": "5baa0dc2-705f-4ad2-bdc0-43eb5aa5362f",
+    "data": [
+      {
+        "text": "응애",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "담배",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 마려워 ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fc19c96b-57b4-4906-8c8e-71d7d8e7867a",
+    "data": [
+      {
+        "text": "담배",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "마려워 ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c60d2910-b75c-4fff-be21-a8fb189ff228",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 힘들어 ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

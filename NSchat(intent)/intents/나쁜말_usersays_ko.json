@@ -1,0 +1,123 @@
+[
+  {
+    "id": "99a33c8a-cb23-46c3-b7ce-0fd807a1d3e2",
+    "data": [
+      {
+        "text": "씨발",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "28c518ec-eb34-45f5-9bae-4db2a6fbe3d1",
+    "data": [
+      {
+        "text": "개씨발",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "07a51653-d754-4843-88fa-1b9bfafd0d4d",
+    "data": [
+      {
+        "text": "씨발아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d52d2533-5b87-412a-9dd3-64cf6b062ed3",
+    "data": [
+      {
+        "text": "시발련아",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c9a21f00-d308-41bb-a462-a354eb91b506",
+    "data": [
+      {
+        "text": "개족같은새끼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8586095d-088e-4696-8d79-7f87e8de86e6",
+    "data": [
+      {
+        "text": "시발아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c7208538-b384-4158-af9d-3bd846ff4a2a",
+    "data": [
+      {
+        "text": "슈발련아",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "32cf64b2-5502-4fff-849e-5097ed70e303",
+    "data": [
+      {
+        "text": "ㅅㅂ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0674bc26-e816-4743-bcd4-11d771191972",
+    "data": [
+      {
+        "text": "시발련아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

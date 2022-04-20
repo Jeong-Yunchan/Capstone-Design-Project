@@ -1,0 +1,78 @@
+{
+  "id": "4126fead-a2d1-469b-b478-d62da1765d75",
+  "name": "금연10계명",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8de4d02d-8575-4bec-b813-bbf9c3f47e3b",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9b7aca66-b7e9-406c-92b1-643198178f0d",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "05cdb350-00d3-4707-973e-b95b2a381ee6",
+          "name": "person1",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person1",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"첫째! 금연 사실 주변에 알리기\n\n둘째! 새로운 분위기 조성하고 취미활동 즐기기\n\n셋째! 금단증상 시기에 안정 취하기\n\n넷째! 라이터, 재떨이 등을 버리기\n\n다섯번째!! 식사 후 즉시 양치하기\n\n여섯번째!! 담배피우고 싶을 때 물마시기!!!!!\n\n일곱번째!! 흡연 장소 및 사람을 멀리하기!\n\n여덟번째!! 담배를 입에 무는 행위 금물!!\n\n아홉번째 !! 섬유소가 많은 음식 섭취하기\n\n열번째!! 커피 ,탄산음료 피하기!!\n\n★금연할때 꼭 기억하세요 금연 10계명★\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

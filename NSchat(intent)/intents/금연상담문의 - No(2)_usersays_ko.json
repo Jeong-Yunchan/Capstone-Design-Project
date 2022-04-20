@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c093990c-88a5-4965-bd2c-10ab61d49bc1",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 예약할래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f16229f4-92dd-4e0e-ba19-37fec039d53a",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "예약",
+        "userDefined": false
+      },
+      {
+        "text": "신청",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "49a7d8c6-8592-4f0b-857b-1702475147fc",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "예약",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "74a87b63-01c3-41fe-94ce-37140788f135",
+    "data": [
+      {
+        "text": "예약",
+        "userDefined": false
+      },
+      {
+        "text": "신청",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3c8f2a0e-90e4-4bfe-af36-b857b71eae36",
+    "data": [
+      {
+        "text": "이메일",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "62702400-68e2-40c5-b8d0-2f8386f6563c",
+    "data": [
+      {
+        "text": "예약",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  }
+]

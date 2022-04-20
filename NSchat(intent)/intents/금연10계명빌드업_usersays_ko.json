@@ -1,0 +1,140 @@
+[
+  {
+    "id": "930ea73f-a35d-4890-8d09-b05e5ad3a2a5",
+    "data": [
+      {
+        "text": "내가 ",
+        "userDefined": false
+      },
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하기",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 전에 ",
+        "userDefined": false
+      },
+      {
+        "text": "기억",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해야 할게 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "101f0eb1-08c7-44e2-9d47-d0b8de7aa8e6",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하기",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 전에 알아야 할게 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8e588340-04be-4103-b0dd-04344ca9227b",
+    "data": [
+      {
+        "text": "알아야되는거는 머야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ce6ac6c6-7586-48c0-abcb-d9ac12e73154",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "할떄 무조건 꼭 알아야되는거는 머야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e5a4b765-38bd-48d0-b2a1-8a785cbc59cc",
+    "data": [
+      {
+        "text": "기억",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해야되는거는 머야??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9d4fd44c-a242-4218-93bb-ab35cd4ac15f",
+    "data": [
+      {
+        "text": "꼭 ",
+        "userDefined": false
+      },
+      {
+        "text": "기억",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해야되는거는 머야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

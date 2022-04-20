@@ -1,0 +1,84 @@
+{
+  "id": "378339a0-0b72-4aba-b337-7f4fdb960a92",
+  "parentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "rootParentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "name": "금연상담문의 - Yes",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3a9f1d9-6908-41f7-bcd2-31ff7a3b0dbc",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "94948b8f-92b7-48b6-bea5-2fba513a80c0",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6872256a-4d09-4e78-92e9-bf5fabea4825",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "전화상담예약\n(https://www.nosmokeguide.go.kr\n/lay2/program/S1T53C65/nosmoke\n/consulting/applyform.do)",
+            "금연길라잡이를 추천드려요.\n(https://www.nosmokeguide\n.go.kr/index.do)",
+            "금연두드림\n(보건소 금연클리닉 \n지역별 연락처와 위치제공)\n(https://nosmk.khealth.or.kr\n/nsk/user/extra/ntcc/262/\nservice/healthServiceSearch\n/jsp/LayOutPage.do)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

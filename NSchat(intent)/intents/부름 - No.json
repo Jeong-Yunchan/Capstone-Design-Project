@@ -1,0 +1,39 @@
+{
+  "id": "75e547a8-80ae-4623-aa47-f93d56065bb4",
+  "parentId": "7a4b6bd9-b088-4437-8b8a-9350af39b2fa",
+  "rootParentId": "7a4b6bd9-b088-4437-8b8a-9350af39b2fa",
+  "name": "부름 - No",
+  "auto": true,
+  "contexts": [
+    "-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "궁금한 것이 있으시다면 언제든 물어보세요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
