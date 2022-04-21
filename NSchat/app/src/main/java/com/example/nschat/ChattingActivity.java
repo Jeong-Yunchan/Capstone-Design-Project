@@ -8,6 +8,16 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
+import com.google.api.gax.core.FixedCredentialsProvider;
+import com.google.auth.oauth2.GoogleCredentials;
+import com.google.auth.oauth2.ServiceAccountCredentials;
+import com.google.cloud.dialogflow.v2.DetectIntentResponse;
+import com.google.cloud.dialogflow.v2.QueryInput;
+import com.google.cloud.dialogflow.v2.SessionName;
+import com.google.cloud.dialogflow.v2.SessionsClient;
+import com.google.cloud.dialogflow.v2.SessionsSettings;
+import com.google.cloud.dialogflow.v2.TextInput;
+import com.google.common.collect.Lists;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
@@ -26,12 +36,12 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
     private SessionsClient sessionsClient;
     private SessionName sessionName;
     private String uuid = UUID.randomUUID().toString();
-    private String TAG = "mainactivity";
+    private String TAG = "ChattingActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_chatting);
         chatView = findViewById(R.id.chatView);
         editMessage = findViewById(R.id.editMessage);
         btnSend = findViewById(R.id.btnSend);

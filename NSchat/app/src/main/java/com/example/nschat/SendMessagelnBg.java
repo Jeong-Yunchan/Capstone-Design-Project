@@ -1,15 +1,15 @@
 package com.example.nschat;
 
+
 import android.os.AsyncTask;
 import android.util.Log;
-//import com.example.nschat.BotReply;
 import com.google.cloud.dialogflow.v2.DetectIntentRequest;
 import com.google.cloud.dialogflow.v2.DetectIntentResponse;
 import com.google.cloud.dialogflow.v2.QueryInput;
 import com.google.cloud.dialogflow.v2.SessionName;
 import com.google.cloud.dialogflow.v2.SessionsClient;
 
-public class SendMessageInBg extends AsyncTask<Void, Void, DetectIntentResponse> {
+class SendMessageInBg extends AsyncTask<Void, Void, DetectIntentResponse> {
 
 
     private SessionName session;
