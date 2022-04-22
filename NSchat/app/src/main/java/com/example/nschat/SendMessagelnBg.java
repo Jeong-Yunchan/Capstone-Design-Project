@@ -44,7 +44,7 @@ class SendMessageInBg extends AsyncTask<Void, Void, DetectIntentResponse> {
 
     @Override
     protected void onPostExecute(DetectIntentResponse response) {
-        //handle return response here
+        //반환 응답 처리
         botReply.callback(response);
     }
 }

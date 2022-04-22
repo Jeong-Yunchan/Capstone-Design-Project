@@ -14,6 +14,7 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MyViewHolder> 
     private List<Message> messageList;
     private Activity activity;
 
+    //리사이클러 뷰에 사용되는 어뎁터
     public ChatAdapter(List<Message> messageList, Activity activity) {
         this.messageList = messageList;
         this.activity = activity;

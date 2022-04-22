@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.nschat">
 
+    <!-- 안드로이드 앱에서 인터넷에 접속할 수 있도록 설정   -->
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application

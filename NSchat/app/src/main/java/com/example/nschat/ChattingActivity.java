@@ -38,6 +38,8 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
     private String uuid = UUID.randomUUID().toString();
     private String TAG = "ChattingActivity";
 
+
+    //리사이클러 뷰를 사용해 채팅창 화면을 띄워주고 작동
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,6 +51,7 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
         chatAdapter = new ChatAdapter(messageList, this);
         chatView.setAdapter(chatAdapter);
 
+        //사용자가 채팅을 입력하고 버튼을 눌렀을때 채팅창에 글을 띄워줌
         btnSend.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View view) {
                 String message = editMessage.getText().toString();
@@ -60,7 +63,7 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
                     Objects.requireNonNull(chatView.getLayoutManager())
                             .scrollToPosition(messageList.size() - 1);
                 } else {
-                    Toast.makeText(ChattingActivity.this, "Please enter text!", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(ChattingActivity.this, "글을 입력해주세요!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
@@ -68,6 +71,7 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
         setUpBot();
     }
 
+    //dialogFlow와 앱 연결
     private void setUpBot() {
         try {
             InputStream stream = this.getResources().openRawResource(R.raw.credential);
@@ -87,12 +91,14 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
         }
     }
 
+    //사용자가 챗봇에게 채팅을 보내는 부분
     private void sendMessageToBot(String message) {
         QueryInput input = QueryInput.newBuilder()
-                .setText(TextInput.newBuilder().setText(message).setLanguageCode("en-US")).build();
+                .setText(TextInput.newBuilder().setText(message).setLanguageCode("ko-KR")).build();
         new SendMessageInBg(this, sessionName, sessionsClient, input).execute();
     }
 
+    //dialogFlow와 연결에 문제가 있을 경우 오류메시지를 띄워줌
     @Override
     public void callback(DetectIntentResponse returnResponse) {
         if(returnResponse!=null) {
