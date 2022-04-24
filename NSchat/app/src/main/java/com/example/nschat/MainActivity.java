@@ -7,12 +7,16 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
 
 
     public SharedPreferences prefs;
+    private Button ParkBtn;
+    private Button ChatBtn;
 
 
     @Override
@@ -38,5 +42,35 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        Button ChatBtn = findViewById(R.id.bot);
+        Button ParkBtn = findViewById(R.id.park);
+
+
+
+
+        ParkBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), MapsActivity.class);
+                startActivity(intent);
+            }
+        });
+        ChatBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), ChattingActivity.class);
+                startActivity(intent);
+            }
+        });
     }
+
+
+
+
+
+
+
+
+
 }
