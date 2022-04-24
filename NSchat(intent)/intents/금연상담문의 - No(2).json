@@ -1,0 +1,55 @@
+{
+  "id": "b6dd3251-dc0b-4fb0-b775-bb2626a141e1",
+  "parentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "rootParentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "name": "금연상담문의 - No(2)",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0cc2c0f-af7b-4ee3-94fa-82daff68cf3a",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"전화상담예약\n(https://www.nosmokeguide.\ngo.kr/lay2/program/S1T53C65\n/nosmoke/consulting/applyform\n.do)\"",
+            "quitline@ncc.re.kr 로 상담 예약 \n신청하면전문 상담사 분이 \n연락을 주실 거랍니다."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

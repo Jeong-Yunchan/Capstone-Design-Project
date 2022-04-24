@@ -1,0 +1,417 @@
+[
+  {
+    "id": "95c823cd-36eb-48ef-a0f7-d2d0c43c2901",
+    "data": [
+      {
+        "text": "당연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "하지",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ad272cc2-1bae-477f-b89a-5de0f9e275a7",
+    "data": [
+      {
+        "text": "당연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "21cd00ad-b843-4071-a022-1360559d9634",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "dec2b8f3-45c8-4b76-8678-b0438a072908",
+    "data": [
+      {
+        "text": "물론",
+        "userDefined": false
+      },
+      {
+        "text": "이지",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "40745430-5040-4f02-8f03-499b81ed109d",
+    "data": [
+      {
+        "text": "yes",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2b9cc9b4-1976-4121-9e8f-dde9a2afad23",
+    "data": [
+      {
+        "text": "y",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "137274a8-a917-4f43-815f-2acbe180d399",
+    "data": [
+      {
+        "text": "ㅖ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e66034b1-a886-4591-959a-e1473ee2a345",
+    "data": [
+      {
+        "text": "ㅔ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d5638d0e-2640-4851-bd6c-7653c910cc13",
+    "data": [
+      {
+        "text": "ㅓ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a177b612-6fe8-49a6-9e98-d8af5df49b29",
+    "data": [
+      {
+        "text": "ㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a724c73a-e1da-4f1f-a37f-b5599f2cc23c",
+    "data": [
+      {
+        "text": "o",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8fa3f20f-0f41-4819-b4fd-48ee5d8155fb",
+    "data": [
+      {
+        "text": "빨리",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "021b2b4a-4992-4c26-af89-8f736b08e18b",
+    "data": [
+      {
+        "text": "당근",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cb811683-6d73-4320-8704-49a158df9109",
+    "data": [
+      {
+        "text": "당연한",
+        "userDefined": false
+      },
+      {
+        "text": "걸",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 물어봐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5c5ac938-0072-4626-98f4-d10ecce66001",
+    "data": [
+      {
+        "text": "사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c944e08f-4aa2-4214-8ab2-a86b63c75c70",
+    "data": [
+      {
+        "text": "원해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "06f63ae6-3a8c-4c67-a39a-ddf696794b09",
+    "data": [
+      {
+        "text": "알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2efe5e24-5c79-4661-8a37-ea49915e5a1b",
+    "data": [
+      {
+        "text": "응응",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a2ee23b2-464d-45eb-8411-e3e35dc63f56",
+    "data": [
+      {
+        "text": "ㅇㅋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d35ec74f-3989-4aee-84e7-c60736c605b6",
+    "data": [
+      {
+        "text": "ㅇㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "518e0f0c-aff5-4009-98ad-802806a5ad37",
+    "data": [
+      {
+        "text": "어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4190aecd-079a-490a-8ac3-00ee9f3da070",
+    "data": [
+      {
+        "text": "그래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "35988e38-70f3-44a8-8e8a-97c7b3b8c831",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 사이트를 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b32352e5-4eee-4699-94ac-882e1b2b71f1",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 사이트를 원해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "dd8f50a9-4c7e-4578-86eb-bb7ac279cdd5",
+    "data": [
+      {
+        "text": "상담",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ab0606c9-fb12-4a41-9c31-4c4e7e87968f",
+    "data": [
+      {
+        "text": "예",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e316b721-1b63-4b77-a543-aaf5fde88565",
+    "data": [
+      {
+        "text": "응",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

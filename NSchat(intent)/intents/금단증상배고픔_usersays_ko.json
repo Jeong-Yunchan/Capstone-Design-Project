@@ -1,0 +1,89 @@
+[
+  {
+    "id": "2bfca56c-e8a2-4f48-9062-4477f5df571a",
+    "data": [
+      {
+        "text": "배가 고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "eb4f04fb-f961-4002-a50b-e8891aa7de10",
+    "data": [
+      {
+        "text": "헝그리해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3cab7b64-6798-400a-8f99-651966463c2f",
+    "data": [
+      {
+        "text": "배고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9dab6d64-e8d7-4319-b327-6d95d80ec51b",
+    "data": [
+      {
+        "text": "자주",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 배고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fc3528cd-191c-49b8-8bdb-b4b6c168caab",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 하고 ",
+        "userDefined": false
+      },
+      {
+        "text": "자주",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 배고픈 것 같아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

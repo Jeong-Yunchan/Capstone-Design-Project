@@ -1,0 +1,262 @@
+[
+  {
+    "id": "9689be91-3592-43b9-bdac-dde655812a9c",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2972d75f-1fc6-481e-bafa-b3df7fcf23b1",
+    "data": [
+      {
+        "text": "어떤 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "하니",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e1ce74d9-a3a0-45ec-bd4d-1e0456601db8",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a05287bc-4ddd-44c8-a8fd-42ec276c9e85",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fc774a93-d434-4427-9f95-403965a26bd3",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c6b66cf6-0ee8-4f05-9577-a1c518c06d8c",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐 할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "40a7ff15-4089-4211-8a6c-e5049667abdf",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "할래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "88ac0808-b7c4-41d4-ab74-9835b69929ae",
+    "data": [
+      {
+        "text": "심심해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5f19600d-dfb6-4684-ad2c-ad6ce301bac0",
+    "data": [
+      {
+        "text": "몸을 움직이고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1f750555-4c23-40a9-8781-438f864051b9",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1937038b-beb3-4066-b640-fd5b25351238",
+    "data": [
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 하고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "751d5aa6-2270-41c9-acba-d217f9e42669",
+    "data": [
+      {
+        "text": "금연에",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 도움을 주는 ",
+        "userDefined": false
+      },
+      {
+        "text": "운동",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": "을 알고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

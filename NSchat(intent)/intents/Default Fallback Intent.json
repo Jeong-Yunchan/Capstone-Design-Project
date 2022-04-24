@@ -1,0 +1,40 @@
+{
+  "id": "831d78ae-1018-478e-86d4-f5919b816fa3",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "마지막에 말씀을 잘 못 이해 한것 같아요.",
+            "방금 하신 말씀을 잘 못 알아들었어요.",
+            "죄송해요. 다시 들려 주실래요?",
+            "제가 제대로 이해하고 있는지 잘 모르겠어요.",
+            "제가 제대로 이해하지 못한것 같아요. 죄송해요.",
+            "조금 헷갈리는데요."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

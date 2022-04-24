@@ -1,0 +1,124 @@
+[
+  {
+    "id": "08c5a6ee-3922-4e04-a26d-ce849f5bce1d",
+    "data": [
+      {
+        "text": "불안하고 슬퍼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2aecad80-79c2-4428-9a6a-158b0196cb72",
+    "data": [
+      {
+        "text": "잠",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 잘안와",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "599e18d5-1d32-4c9d-bec7-d1034ed578ef",
+    "data": [
+      {
+        "text": "안절부절해서 못참겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b58c9b0d-374f-4e6a-9451-d0be356a1194",
+    "data": [
+      {
+        "text": "집중이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 잘 안돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "219410a4-b61c-4d73-bea0-f1a543db2035",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 할때 ",
+        "userDefined": false
+      },
+      {
+        "text": "집중이",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " 잘 안돼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "3fb1a0d2-970e-4c01-8b3f-0225ca3ebec9",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 할때 짜증",
+        "userDefined": false
+      },
+      {
+        "text": "이나",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

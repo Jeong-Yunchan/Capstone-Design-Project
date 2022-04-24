@@ -1,0 +1,40 @@
+[
+  {
+    "id": "c5cc1b86-4496-480c-8d7e-5a58ce2ad71d",
+    "data": [
+      {
+        "text": "담배",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " 피고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cf19d0c5-3de4-4692-8ce3-e55d6aa3878c",
+    "data": [
+      {
+        "text": "담배",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " 마려워",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

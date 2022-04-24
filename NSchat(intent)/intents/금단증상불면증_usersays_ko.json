@@ -1,0 +1,47 @@
+[
+  {
+    "id": "67c83258-968e-4f30-9703-d3db4e223b93",
+    "data": [
+      {
+        "text": "잠을 못자겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7fe1931f-ea11-4323-b5a0-509e2af1b596",
+    "data": [
+      {
+        "text": "불면증",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4ba2bfea-df38-48dd-b368-1342c4606bf6",
+    "data": [
+      {
+        "text": "금연",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을하고 잠을 못자",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

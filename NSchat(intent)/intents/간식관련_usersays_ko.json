@@ -1,0 +1,169 @@
+[
+  {
+    "id": "ef8f1384-0fd9-4ae3-800d-c4be049818b1",
+    "data": [
+      {
+        "text": "금연에",
+        "userDefined": false
+      },
+      {
+        "text": " 좋은 간식을 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f7367bce-17a7-40f5-aa71-3f93f5159450",
+    "data": [
+      {
+        "text": "간식",
+        "userDefined": false
+      },
+      {
+        "text": "은",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 뭘 먹는게 좋아?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bf21d91f-36bf-43ad-95d7-7c72d78fbac2",
+    "data": [
+      {
+        "text": "무슨 간식을 먹을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "300b7ba6-c23e-4154-acbf-e14a9c036648",
+    "data": [
+      {
+        "text": "간식",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 먹고 싶어!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6061b152-2c66-4a4b-a40a-f12d1448f4bb",
+    "data": [
+      {
+        "text": "간식",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4a1a8a95-2c9e-4938-a81e-4ac881ecb63c",
+    "data": [
+      {
+        "text": "간식먹을래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "aa8ae150-ef12-4a9d-b565-517cbed3e67a",
+    "data": [
+      {
+        "text": "간식을 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줄래?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fe7860e0-7565-4dc0-88ed-37b6d970851f",
+    "data": [
+      {
+        "text": "간식",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ef5c39f9-46ea-4a3b-971f-aabfc39c6a71",
+    "data": [
+      {
+        "text": "간식을 먹고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

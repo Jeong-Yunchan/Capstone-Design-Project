@@ -1,0 +1,192 @@
+[
+  {
+    "id": "b7579982-18d5-41ee-9f7e-df705ff1530e",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐가 있니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8632f9ea-cf44-42bb-95bf-af38e92c0d3c",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 말해봐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4b03814c-ae25-408c-b8ce-69bf38d56c33",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐있냐?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fff9c37e-d6d5-4488-847b-af248a48bec6",
+    "data": [
+      {
+        "text": "금단 ",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 ",
+        "userDefined": false
+      },
+      {
+        "text": "나열",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해봐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e06e685b-f836-49bf-bb81-b08ad2e1e961",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cc07726c-3343-42b1-af00-f181457e3984",
+    "data": [
+      {
+        "text": "금단 ",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "을 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "40124617-a047-4a76-b289-a660769838ff",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d7db1201-8598-45eb-b14c-aa3a9a53bfb4",
+    "data": [
+      {
+        "text": "금단",
+        "userDefined": false
+      },
+      {
+        "text": "증상이",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " 머야",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

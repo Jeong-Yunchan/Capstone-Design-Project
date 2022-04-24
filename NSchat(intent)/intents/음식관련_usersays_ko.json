@@ -1,0 +1,414 @@
+[
+  {
+    "id": "ec52202c-3ea7-4a62-8bfa-402d1990c3be",
+    "data": [
+      {
+        "text": "무언가를 먹고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "109351cc-e0a3-4e44-9574-54f8438d65bf",
+    "data": [
+      {
+        "text": "먹을거",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e3c4e3b1-b8d2-4564-afd6-b82d66ec5125",
+    "data": [
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "afe3c8d7-95b6-4f73-8361-b6e5ae57d374",
+    "data": [
+      {
+        "text": "식재료",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "71640c34-94f4-4826-a951-2f9e502f8679",
+    "data": [
+      {
+        "text": "식재료를 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2dc503b6-d0a5-4874-b670-541ed071f7d7",
+    "data": [
+      {
+        "text": "무엇을 먹어야 할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1798b559-6f1b-4ed9-9fa0-7375d812c1c4",
+    "data": [
+      {
+        "text": "뭐 먹지?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bb6e0ac1-9859-41e2-9c68-987b6279aa1e",
+    "data": [
+      {
+        "text": "무얼 먹었으면 ",
+        "userDefined": false
+      },
+      {
+        "text": "하니",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7bf89320-8abf-4646-992c-3b776f3b5a0d",
+    "data": [
+      {
+        "text": "무엇을 먹을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "659619cc-781c-4398-98c9-8b67b5ec62bb",
+    "data": [
+      {
+        "text": "배가 출출해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b34943a9-e0ad-4229-af44-ab11adbb4443",
+    "data": [
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " 재료",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6df17cb4-6ce0-462e-a5b5-a47642ede8de",
+    "data": [
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6f827b7c-46e5-4eb1-8817-621c22b3188f",
+    "data": [
+      {
+        "text": "금연",
+        "userDefined": false
+      },
+      {
+        "text": "중에 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "할만한 ",
+        "userDefined": false
+      },
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " 있니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a652d785-3ffb-4b2a-bb09-9a372eb5a47e",
+    "data": [
+      {
+        "text": "금연",
+        "userDefined": false
+      },
+      {
+        "text": "중에 무엇을 먹을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6dda631a-4671-4bef-8ecf-6d91351fe02f",
+    "data": [
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " 재료를 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "718def51-cb0c-4348-b105-62b5db4ee653",
+    "data": [
+      {
+        "text": "배가 고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b17d24cd-558d-4e5b-b5f5-e8dea300573e",
+    "data": [
+      {
+        "text": "밥 먹고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f752fcb8-085a-4844-bf5e-f5a1696d6fbe",
+    "data": [
+      {
+        "text": "무슨 ",
+        "userDefined": false
+      },
+      {
+        "text": "요리",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "를 할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b62a0942-51e0-4c15-92dc-e192b53db4d3",
+    "data": [
+      {
+        "text": "배고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4132af84-9cb6-4cce-93f7-efb7fd069069",
+    "data": [
+      {
+        "text": "출출해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "147b0fe2-8b18-48f2-87c1-0fe7ecfa27b6",
+    "data": [
+      {
+        "text": "뭐 먹을까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5655982e-76e6-4a62-a718-8b3af0245af8",
+    "data": [
+      {
+        "text": "금연에",
+        "userDefined": false
+      },
+      {
+        "text": " 도움을 주는 ",
+        "userDefined": false
+      },
+      {
+        "text": "음식",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
