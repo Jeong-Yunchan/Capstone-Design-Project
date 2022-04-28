@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="929a7161-e180-494f-a599-4e0cf35f0801" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/NSchat/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/androidTest/java/com/example/nschat/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/androidTest/java/com/example/nschat/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/java/com/example/nschat/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/java/com/example/nschat/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/app/src/test/java/com/example/nschat/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/app/src/test/java/com/example/nschat/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NSchat/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/NSchat/settings.gradle" afterDir="false" />
+    <list default="true" id="929a7161-e180-494f-a599-4e0cf35f0801" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +26,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
