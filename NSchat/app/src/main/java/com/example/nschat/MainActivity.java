@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         parkBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), MapsActivity.class);
+                Intent intent = new Intent(getApplicationContext(), Parsing.class);
                 startActivity(intent);
             }
         });
