@@ -1,6 +1,7 @@
 package com.example.nschat;
 
 import android.Manifest;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -37,8 +38,11 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.material.snackbar.Snackbar;
+import com.google.maps.android.clustering.Cluster;
+import com.google.maps.android.clustering.ClusterManager;
 
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
@@ -46,11 +50,14 @@ public class MapsActivity extends AppCompatActivity
         implements OnMapReadyCallback,
         ActivityCompat.OnRequestPermissionsResultCallback{
 
-
     private GoogleMap mMap;
     private Marker currentMarker = null;
 
-    private static final String TAG = "googlemap_example";
+    private ClusterManager<MyItem> clusterManager; // 클러스터 추가
+    ArrayList<Park> parks; //공원 리스트 추가
+    Context context = this;
+
+    private static final String TAG = "Mmap";
     private static final int GPS_ENABLE_REQUEST_CODE = 2001;
     private static final int UPDATE_INTERVAL_MS = 1000000;  // 10000초
 
@@ -86,6 +93,8 @@ public class MapsActivity extends AppCompatActivity
 
         setContentView(R.layout.activity_maps);
 
+        parks = (ArrayList<Park>)getIntent().getSerializableExtra("park"); //park를 받아옴
+
         mLayout = findViewById(R.id.layout_map);
 
         locationRequest = new LocationRequest()
@@ -113,6 +122,66 @@ public class MapsActivity extends AppCompatActivity
         Log.d(TAG, "onMapReady :");
 
         mMap = googleMap;
+        clusterManager = new ClusterManager<>(this, mMap);
+        mMap.setOnCameraIdleListener(clusterManager);
+        mMap.setOnMarkerClickListener(clusterManager);
+
+        mMap.setOnMapLoadedCallback(new GoogleMap.OnMapLoadedCallback() {
+            @Override
+            public void onMapLoaded() {
+                Log.d(TAG, "Load");
+                LatLng latLng = new LatLng(35.13989, 126.9340);
+                CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(latLng, 10);
+                mMap.animateCamera(cameraUpdate);
+                for(int i = 0 ; i < parks.size(); i++) {
+                    MyItem parkItem = new MyItem(Double.parseDouble(parks.get(i).getLat()), Double.parseDouble(parks.get(i).getLng()),parks.get(i).getPname());
+                    clusterManager.addItem(parkItem);
+                } // 공원 개수만큼 item 추가
+            }
+        });
+
+        /**
+         *클러스터 클릭 리스너
+         */
+        clusterManager.setOnClusterClickListener(new ClusterManager.OnClusterClickListener<MyItem>() {
+            @Override
+            public boolean onClusterClick(Cluster<MyItem> cluster) {
+                LatLng latLng = new LatLng(cluster.getPosition().latitude, cluster.getPosition().longitude);
+                CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(latLng, 15);
+                mMap.moveCamera(cameraUpdate);
+                return false;
+            }
+        });
+
+        /**
+        *마커 타이틀 클릭 리스너
+        *마커 타이틀을 클릭하면
+        *마커의 공원 정보를 보여준다
+         */
+        mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
+            @Override
+            public void onInfoWindowClick(Marker marker) {
+                String marker_number = null;
+                for (int i = 0; i < parks.size(); i++) {
+                    if (parks.get(i).findIndex(marker.getTitle()) != null) {
+                        marker_number = parks.get(i).findIndex(marker.getTitle());
+                    }
+                } // marker title로 park을 검색하여 number 반환받아옴
+                final int marker_ID_number = Integer.parseInt(marker_number);
+                AlertDialog.Builder builder = new AlertDialog.Builder(context);
+                builder.setTitle("공원정보");
+                builder.setMessage(
+                        "이름 : " + parks.get(marker_ID_number - 1).getPname() +
+                                "\n공원 종류 : " + parks.get(marker_ID_number - 1).getPkind() +
+                                "\n공원 주소 : " + parks.get(marker_ID_number - 1).getPadr() +
+                                "\n공원 크기 : " + parks.get(marker_ID_number - 1).getPsize() +"㎡"
+                );
+
+                AlertDialog alertDialog = builder.create();
+                alertDialog.show();
+            }
+        });// 마커 클릭 시 Alert Dialog가 나오도록 설정
+
 
         //런타임 퍼미션 요청 대화상자나 GPS 활성 요청 대화상자 보이기전에
         //지도의 초기위치를 서울로 이동
@@ -151,26 +220,21 @@ public class MapsActivity extends AppCompatActivity
                                 PERMISSIONS_REQUEST_CODE);
                     }
                 }).show();
-
-
             } else {
                 // 4-1. 사용자가 퍼미션 거부를 한 적이 없는 경우에는 퍼미션 요청을 바로 합니다.
                 // 요청 결과는 onRequestPermissionResult에서 수신됩니다.
                 ActivityCompat.requestPermissions( this, REQUIRED_PERMISSIONS,
                         PERMISSIONS_REQUEST_CODE);
             }
-
         }
 
         mMap.getUiSettings().setMyLocationButtonEnabled(true);
         // 현재 오동작을 해서 주석처리
 
-        //mMap.animateCamera(CameraUpdateFactory.zoomTo(15));
         mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
 
             @Override
             public void onMapClick(LatLng latLng) {
-
                 Log.d( TAG, "onMapClick :");
             }
         });
@@ -190,13 +254,11 @@ public class MapsActivity extends AppCompatActivity
                 currentPosition
                         = new LatLng(location.getLatitude(), location.getLongitude());
 
-
                 String markerTitle = getCurrentAddress(currentPosition);
                 String markerSnippet = "위도:" + String.valueOf(location.getLatitude())
                         + " 경도:" + String.valueOf(location.getLongitude());
 
                 Log.d(TAG, "onLocationResult : " + markerSnippet);
-
 
                 //현재 위치에 마커 생성하고 이동
                 setCurrentLocation(location, markerTitle, markerSnippet);
@@ -204,7 +266,6 @@ public class MapsActivity extends AppCompatActivity
                 mCurrentLocatiion = location;
             }
         }
-
     };
 
     private void startLocationUpdates() {
@@ -219,8 +280,6 @@ public class MapsActivity extends AppCompatActivity
             int hasCoarseLocationPermission = ContextCompat.checkSelfPermission(this,
                     Manifest.permission.ACCESS_COARSE_LOCATION);
 
-
-
             if (hasFineLocationPermission != PackageManager.PERMISSION_GRANTED ||
                     hasCoarseLocationPermission != PackageManager.PERMISSION_GRANTED   ) {
 
@@ -233,7 +292,6 @@ public class MapsActivity extends AppCompatActivity
 
             if (checkPermission())
                 mMap.setMyLocationEnabled(true);
-
         }
     }
 
@@ -244,16 +302,13 @@ public class MapsActivity extends AppCompatActivity
         Log.d(TAG, "onStart");
 
         if (checkPermission()) {
-
             Log.d(TAG, "onStart : call mFusedLocationClient.requestLocationUpdates");
             mFusedLocationClient.requestLocationUpdates(locationRequest, locationCallback, null);
 
             if (mMap!=null)
                 mMap.setMyLocationEnabled(true);
-
         }
     }
-
 
     @Override
     protected void onStop() {
@@ -319,8 +374,7 @@ public class MapsActivity extends AppCompatActivity
 
         MarkerOptions markerOptions = new MarkerOptions();
         markerOptions.position(currentLatLng);
-        markerOptions.title(markerTitle);
-        markerOptions.snippet(markerSnippet);
+        markerOptions.visible(false);
         markerOptions.draggable(true);
 
         currentMarker = mMap.addMarker(markerOptions);
@@ -330,7 +384,6 @@ public class MapsActivity extends AppCompatActivity
     }
 
     public void setDefaultLocation() {
-
 
         //디폴트 위치, Seoul
         LatLng DEFAULT_LOCATION = new LatLng(37.56, 126.97);
@@ -360,8 +413,6 @@ public class MapsActivity extends AppCompatActivity
         int hasCoarseLocationPermission = ContextCompat.checkSelfPermission(this,
                 Manifest.permission.ACCESS_COARSE_LOCATION);
 
-
-
         if (hasFineLocationPermission == PackageManager.PERMISSION_GRANTED &&
                 hasCoarseLocationPermission == PackageManager.PERMISSION_GRANTED   ) {
             return true;
@@ -369,7 +420,7 @@ public class MapsActivity extends AppCompatActivity
         return false;
     }
 
-    /*
+    /**
      * ActivityCompat.requestPermissions를 사용한 퍼미션 요청의 결과를 리턴받는 메소드입니다.
      */
     @Override
