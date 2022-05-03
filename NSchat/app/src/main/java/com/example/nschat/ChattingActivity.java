@@ -8,6 +8,9 @@ import android.widget.ImageButton;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.toolbox.Volley;
 import com.google.api.gax.core.FixedCredentialsProvider;
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.auth.oauth2.ServiceAccountCredentials;
@@ -20,6 +23,8 @@ import com.google.cloud.dialogflow.v2.TextInput;
 import com.google.common.collect.Lists;
 import java.io.InputStream;
 import java.util.ArrayList;
+import org.json.JSONException;
+import org.json.JSONObject;
 import java.util.List;
 import java.util.Objects;
 import java.util.UUID;
@@ -93,6 +98,25 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
 
     //사용자가 챗봇에게 채팅을 보내는 부분
     private void sendMessageToBot(String message) {
+
+        // 성공여부 알려주는 곳인데 알려줄 필요가 없을거 같고 포스트메시지 띄울필요가 없어서 그냥 하다가 놔뒀음
+        Response.Listener<String> responseListener = new Response.Listener<String>(){
+            @Override
+            public void onResponse(String response){
+                try {
+                    JSONObject jsonObject = new JSONObject(response);
+                    boolean success = jsonObject.getBoolean("success"); // 성공여부
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
+            }
+        };
+        // message(질문)을 DB로 보내는 작업(서버로 volley를 이용해서 요청을 함.)
+        QuestionRegister questRegister = new QuestionRegister(message, responseListener);
+        RequestQueue queue = Volley.newRequestQueue(ChattingActivity.this);
+        queue.add(questRegister);
+
         QueryInput input = QueryInput.newBuilder()
                 .setText(TextInput.newBuilder().setText(message).setLanguageCode("ko-KR")).build();
         new SendMessageInBg(this, sessionName, sessionsClient, input).execute();
