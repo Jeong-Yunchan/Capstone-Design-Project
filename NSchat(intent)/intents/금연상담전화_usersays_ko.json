@@ -12,8 +12,6 @@
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -22,8 +20,6 @@
       },
       {
         "text": "알",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -32,8 +28,6 @@
       },
       {
         "text": "수",
-        "meta": "@sys.date-time",
-        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -51,14 +45,10 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -80,8 +70,6 @@
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -103,8 +91,6 @@
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],

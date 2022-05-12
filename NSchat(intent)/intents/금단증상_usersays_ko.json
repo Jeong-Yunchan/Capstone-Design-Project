@@ -3,17 +3,7 @@
     "id": "b7579982-18d5-41ee-9f7e-df705ff1530e",
     "data": [
       {
-        "text": "금단",
-        "userDefined": false
-      },
-      {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 뭐가 있니?",
+        "text": "금단증상 뭐가 있니?",
         "userDefined": false
       }
     ],
@@ -26,17 +16,7 @@
     "id": "8632f9ea-cf44-42bb-95bf-af38e92c0d3c",
     "data": [
       {
-        "text": "금단",
-        "userDefined": false
-      },
-      {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 말해봐",
+        "text": "금단증상 말해봐",
         "userDefined": false
       }
     ],
@@ -49,17 +29,7 @@
     "id": "4b03814c-ae25-408c-b8ce-69bf38d56c33",
     "data": [
       {
-        "text": "금단",
-        "userDefined": false
-      },
-      {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 뭐있냐?",
+        "text": "금단증상 뭐있냐?",
         "userDefined": false
       }
     ],
@@ -72,27 +42,15 @@
     "id": "fff9c37e-d6d5-4488-847b-af248a48bec6",
     "data": [
       {
-        "text": "금단 ",
+        "text": "금단 증",
         "userDefined": false
       },
       {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
+        "text": "상을 ",
         "userDefined": false
       },
       {
-        "text": "을 ",
-        "userDefined": false
-      },
-      {
-        "text": "나열",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": "해봐",
+        "text": "나열해봐",
         "userDefined": false
       }
     ],
@@ -105,13 +63,7 @@
     "id": "e06e685b-f836-49bf-bb81-b08ad2e1e961",
     "data": [
       {
-        "text": "금단",
-        "userDefined": false
-      },
-      {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
+        "text": "금단증상",
         "userDefined": false
       }
     ],
@@ -124,17 +76,7 @@
     "id": "cc07726c-3343-42b1-af00-f181457e3984",
     "data": [
       {
-        "text": "금단 ",
-        "userDefined": false
-      },
-      {
-        "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": "을 알려줘",
+        "text": "금단 증상을 알려줘",
         "userDefined": false
       }
     ],
@@ -152,8 +94,6 @@
       },
       {
         "text": "증상",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -175,8 +115,6 @@
       },
       {
         "text": "증상이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {

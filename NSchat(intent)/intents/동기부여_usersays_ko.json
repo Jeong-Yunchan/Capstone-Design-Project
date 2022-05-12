@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "담배",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
@@ -23,8 +21,6 @@
     "data": [
       {
         "text": "담배",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
