@@ -8,36 +8,7 @@
       "resetContexts": false,
       "action": "",
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "914aedce-c2d5-400e-9eb8-b6a926597598",
-          "name": "person",
-          "required": false,
-          "dataType": "@sys.person",
-          "value": "$person",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        },
-        {
-          "id": "a49b3194-4abd-4473-a7cf-50ef141995d9",
-          "name": "person1",
-          "required": false,
-          "dataType": "@sys.person",
-          "value": "$person1",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": "0",

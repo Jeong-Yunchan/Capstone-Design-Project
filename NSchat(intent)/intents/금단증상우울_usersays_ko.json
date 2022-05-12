@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -14,14 +12,10 @@
       },
       {
         "text": "기분",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -52,8 +46,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {

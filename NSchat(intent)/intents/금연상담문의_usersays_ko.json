@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -31,13 +29,7 @@
     "id": "7823139b-698d-4e07-94ae-7bb2472ddf94",
     "data": [
       {
-        "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 도움 필요",
+        "text": "금연 도움 필요",
         "userDefined": false
       }
     ],
@@ -76,13 +68,7 @@
     "id": "30b8429b-dba3-4c48-9e99-7573e9f23a19",
     "data": [
       {
-        "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 도움",
+        "text": "금연 도움",
         "userDefined": false
       }
     ],
@@ -96,8 +82,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -106,8 +90,6 @@
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -125,8 +107,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -135,8 +115,6 @@
       },
       {
         "text": "이",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -154,8 +132,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -173,8 +149,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -183,8 +157,6 @@
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -202,8 +174,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -212,8 +182,6 @@
       },
       {
         "text": "상담이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -231,8 +199,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -250,8 +216,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -260,8 +224,6 @@
       },
       {
         "text": "수",
-        "meta": "@sys.date-time",
-        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -279,8 +241,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -289,8 +249,6 @@
       },
       {
         "text": "수",
-        "meta": "@sys.date-time",
-        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -308,8 +266,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -327,8 +283,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -346,8 +300,6 @@
     "data": [
       {
         "text": "금연에",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -365,8 +317,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -384,8 +334,6 @@
     "data": [
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -403,8 +351,6 @@
     "data": [
       {
         "text": "상담이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -422,14 +368,10 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -447,8 +389,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -457,8 +397,6 @@
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -476,8 +414,6 @@
     "data": [
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -486,14 +422,10 @@
       },
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
         "text": "하기",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -511,8 +443,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -521,8 +451,6 @@
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -540,8 +468,6 @@
     "data": [
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -550,8 +476,6 @@
       },
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

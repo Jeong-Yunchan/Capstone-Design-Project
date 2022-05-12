@@ -1,5 +1,18 @@
 [
   {
+    "id": "89ce21a5-5c10-4cc3-90c0-9f4afed52dee",
+    "data": [
+      {
+        "text": "아니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
     "id": "5d513f43-e8d0-4e74-aa29-566b65c489e9",
     "data": [
       {
@@ -17,8 +30,6 @@
     "data": [
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -71,14 +82,10 @@
     "data": [
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -92,8 +99,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -102,8 +107,6 @@
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -121,20 +124,14 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "상담",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -165,8 +162,6 @@
     "data": [
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -184,8 +179,6 @@
     "data": [
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -203,8 +196,6 @@
     "data": [
       {
         "text": "전화",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -213,20 +204,7 @@
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "lang": "ko",
-    "updated": 0
-  },
-  {
-    "id": "89ce21a5-5c10-4cc3-90c0-9f4afed52dee",
-    "data": [
-      {
-        "text": "아니",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
+    "count": 1,
     "lang": "ko",
     "updated": 0
   }

@@ -8,22 +8,7 @@
       "resetContexts": false,
       "action": "",
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "0dc16bbd-1e2b-4bd0-b7e7-b68e5ba76eb8",
-          "name": "person",
-          "required": false,
-          "dataType": "@sys.person",
-          "value": "$person",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": "0",

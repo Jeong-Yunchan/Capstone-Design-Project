@@ -1,5 +1,18 @@
 [
   {
+    "id": "a134b3b8-fd3b-4712-b98e-b4af8a63c935",
+    "data": [
+      {
+        "text": "배가고파",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
     "id": "2bfca56c-e8a2-4f48-9062-4477f5df571a",
     "data": [
       {
@@ -43,8 +56,6 @@
     "data": [
       {
         "text": "자주",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -62,8 +73,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -72,8 +81,6 @@
       },
       {
         "text": "자주",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

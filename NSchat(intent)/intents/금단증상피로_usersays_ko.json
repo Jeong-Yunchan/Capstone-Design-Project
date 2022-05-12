@@ -1,17 +1,26 @@
 [
   {
+    "id": "02f2fe22-b882-40aa-b04f-11b0363e7f2f",
+    "data": [
+      {
+        "text": "피곤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
     "id": "fab9d589-4220-4c17-921c-bd806946762d",
     "data": [
       {
         "text": "피곤",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "한데",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -29,8 +38,6 @@
     "data": [
       {
         "text": "피로",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -48,8 +55,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -58,8 +63,6 @@
       },
       {
         "text": "피로",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -90,8 +93,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -100,8 +101,6 @@
       },
       {
         "text": "피로",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

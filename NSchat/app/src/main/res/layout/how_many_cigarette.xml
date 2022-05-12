@@ -27,7 +27,7 @@
         android:layout_height="0dp"
         android:layout_marginStart="85dp"
         android:layout_marginLeft="85dp"
-
+        android:hint=" 입력해주세요"
 
         android:layout_marginTop="7dp"
         android:layout_marginBottom="7dp"
@@ -52,7 +52,6 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/editText3"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

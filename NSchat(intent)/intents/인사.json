@@ -8,22 +8,7 @@
       "resetContexts": false,
       "action": "",
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "9966fcc9-83a7-4620-88e0-5dae0ac00745",
-          "name": "person",
-          "required": false,
-          "dataType": "@sys.person",
-          "value": "$person",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": "0",
@@ -47,7 +32,11 @@
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
-  "events": [],
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
   "conditionalResponses": [],
   "condition": "",
   "conditionalFollowupEvents": []
