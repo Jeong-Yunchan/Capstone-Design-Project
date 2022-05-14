@@ -12,22 +12,7 @@
       "resetContexts": false,
       "action": ".-custom",
       "affectedContexts": [],
-      "parameters": [
-        {
-          "id": "c0cc2c0f-af7b-4ee3-94fa-82daff68cf3a",
-          "name": "person",
-          "required": false,
-          "dataType": "@sys.person",
-          "value": "$person",
-          "defaultValue": "",
-          "isList": true,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": "0",

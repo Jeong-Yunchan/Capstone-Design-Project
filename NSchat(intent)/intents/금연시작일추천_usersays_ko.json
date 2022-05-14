@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "언제",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -14,8 +12,6 @@
       },
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -24,8 +20,6 @@
       },
       {
         "text": "하지",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -43,8 +37,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -53,8 +45,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       }
     ],
@@ -68,8 +58,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -78,8 +66,6 @@
       },
       {
         "text": "시기",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       }
     ],
@@ -93,8 +79,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -112,8 +96,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -122,8 +104,6 @@
       },
       {
         "text": "언제",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

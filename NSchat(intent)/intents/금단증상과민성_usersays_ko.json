@@ -3,23 +3,11 @@
     "id": "e84bcaa4-8f15-48e6-b082-a46dcc90ea5f",
     "data": [
       {
-        "text": "나",
-        "meta": "@sys.person",
-        "alias": "person",
+        "text": "나 민",
         "userDefined": false
       },
       {
-        "text": " 민감",
-        "userDefined": false
-      },
-      {
-        "text": "해진",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 것 같아",
+        "text": "감해진 것 같아",
         "userDefined": false
       }
     ],
@@ -33,8 +21,6 @@
     "data": [
       {
         "text": "나",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -52,8 +38,6 @@
     "data": [
       {
         "text": "나",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -62,14 +46,10 @@
       },
       {
         "text": "예민",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "해진",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -87,8 +67,6 @@
     "data": [
       {
         "text": "신경이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -97,8 +75,6 @@
       },
       {
         "text": "로",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -120,8 +96,6 @@
       },
       {
         "text": "해진",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -143,8 +117,6 @@
       },
       {
         "text": "해진",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -175,8 +147,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {

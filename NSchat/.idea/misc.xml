@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_main.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/drawable/calsize.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/drawable/iconsize.xml" value="0.5015625" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/drawable/parksize.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/adapter_message_one.xml" value="0.48541666666666666" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/how_many_cigarette.xml" value="0.33" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/layout/parsing.xml" value="0.5411458333333333" />
+        <entry key="..\:/Users/dbsck/Desktop/My_Capstone/Capstone-Design-Project/NSchat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25729166666666664" />
         <entry key="..\:/Users/dbsck/Desktop/NSchat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.190625" />
         <entry key="..\:/Users/dbsck/Desktop/NSchat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.190625" />
         <entry key="..\:/Users/dbsck/Desktop/NSchat/app/src/main/res/drawable/memo_border.xml" value="0.5572916666666666" />

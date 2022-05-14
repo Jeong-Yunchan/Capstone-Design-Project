@@ -4,14 +4,10 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -29,8 +25,6 @@
       },
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -39,14 +33,10 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
         "text": "하니",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -68,8 +58,6 @@
       },
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -87,14 +75,10 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -108,8 +92,6 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -118,8 +100,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -137,8 +117,6 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -156,8 +134,6 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -201,8 +177,6 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -216,8 +190,6 @@
     "data": [
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -235,8 +207,6 @@
     "data": [
       {
         "text": "금연에",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -245,8 +215,6 @@
       },
       {
         "text": "운동",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

@@ -1,5 +1,18 @@
 [
   {
+    "id": "96bbf8ac-0ca5-41e2-8430-6694335b22dd",
+    "data": [
+      {
+        "text": "불안해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
     "id": "2c396141-6abe-4d57-958e-c5852f5cf3ca",
     "data": [
       {
@@ -21,8 +34,6 @@
       },
       {
         "text": "이",
-        "meta": "@sys.number",
-        "alias": "number",
         "userDefined": false
       },
       {
@@ -53,8 +64,6 @@
     "data": [
       {
         "text": "집중이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -72,8 +81,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -82,8 +89,6 @@
       },
       {
         "text": "집중이",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
@@ -101,8 +106,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -111,8 +114,6 @@
       },
       {
         "text": "이나",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       }
     ],
