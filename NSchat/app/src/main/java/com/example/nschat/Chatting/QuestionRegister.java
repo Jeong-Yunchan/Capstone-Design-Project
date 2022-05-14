@@ -12,7 +12,7 @@ import java.util.Map;
 public class QuestionRegister extends StringRequest{
 
     // 서버 URL 설정(php파일연동)
-    final static private String URL = "http://192.168.0.16/DF_Question.php";
+    final static private String URL = "http://mhj0526.dothome.co.kr/DF_Question.php";
     private Map<String, String> map;
 
     public QuestionRegister(String message, Response.Listener<String>listener){
