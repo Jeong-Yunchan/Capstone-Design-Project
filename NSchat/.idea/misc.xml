@@ -15,9 +15,15 @@
         <entry key="..\:/Users/dbsck/Desktop/NSchat/app/src/main/res/layout/parsing.xml" value="0.4588541666666667" />
         <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_calendar.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_calender.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_chatting.xml" value="0.128" />
-        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_main.xml" value="0.21829710144927536" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/adapter_calendar_item.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/adapter_calender.xml" value="0.24114583333333334" />
         <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/adapter_message_one.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/item_day.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/user/Desktop/cd/Capstone-Design-Project/NSchat/app/src/main/res/layout/item_day_box.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>

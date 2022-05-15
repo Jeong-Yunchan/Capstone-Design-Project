@@ -10,6 +10,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.example.nschat.nsCalendar.CalendarActivity;
+
 public class MainActivity extends AppCompatActivity {
 
 
@@ -18,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button parkBtn;
     private Button chatBtn;
+    private Button calendarBtn;
 
 
     @Override
@@ -45,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         parkBtn = findViewById(R.id.parBtn);
         chatBtn = findViewById(R.id.chatBtn);
+        calendarBtn = findViewById(R.id.calendarBtn);
 
         parkBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -58,6 +62,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), ChattingActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        calendarBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), CalendarActivity.class);
                 startActivity(intent);
             }
         });
