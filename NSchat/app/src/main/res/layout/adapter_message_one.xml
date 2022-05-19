@@ -16,6 +16,8 @@
         android:layout_marginBottom="5dp"
         android:background="@drawable/bg_chat_send"
         android:layout_marginStart="30dp"
+        android:linksClickable="true"
+        android:autoLink="web"
         >
 
     </TextView>
@@ -31,6 +33,8 @@
         android:id="@+id/message_receive"
         android:background="@drawable/bg_chat_receive"
         android:layout_marginEnd="30dp"
+        android:linksClickable="true"
+        android:autoLink="web"
         >
 
     </TextView>

@@ -8,147 +8,182 @@
 
     <TextView
         android:id="@+id/todayns"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="26dp"
+        android:layout_width="266dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="423dp"
+        android:background="#00ff0000"
+        android:backgroundTint="#00ff0000"
         android:fontFamily="@font/gompyo"
-        android:text="오늘 금연에"
-        android:textSize="45dp"
+        android:text="오늘의 금연"
+        android:textColor="@color/black"
+        android:textSize="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.095" />
-
-    <Button
-        android:id="@+id/successBtn"
-        android:layout_width="110dp"
-        android:layout_height="75dp"
-        android:layout_marginStart="80dp"
-        android:layout_marginTop="28dp"
-        android:backgroundTint="#5CE85E"
-        android:fontFamily="@font/gompyo"
-        android:text="성공"
-        android:textSize="20sp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/todayns" />
-
-    <Button
-        android:id="@+id/failureBtn"
-        android:layout_width="110dp"
-        android:layout_height="75dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="68dp"
-        android:backgroundTint="#F13939"
-        android:fontFamily="@font/gompyo"
-        android:text="실패"
-        android:textSize="20sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.222" />
-
-    <TextView
-        android:id="@+id/checktext"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:fontFamily="@font/gompyo"
-        android:text="깜박하시면 성공으로 체크해드릴게요!"
-        app:layout_constraintStart_toStartOf="@+id/successBtn"
-        app:layout_constraintTop_toBottomOf="@+id/successBtn" />
+        app:layout_constraintVertical_bias="0.306" />
 
     <TextView
         android:id="@+id/nsgg"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp"
-        android:layout_marginBottom="6dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="183dp"
         android:fontFamily="@font/gompyo"
-        android:text="금연기간"
+        android:text="금연 기간"
+        android:textColor="@color/black"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/NStimeView"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.145"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/checktext" />
-
-    <TextView
-        android:id="@+id/NStimeView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="67dp"
-        android:fontFamily="sans-serif-black"
-        android:text="TextView"
-        android:textSize="15sp"
-        app:layout_constraintBottom_toTopOf="@+id/savemn"
-        app:layout_constraintEnd_toEndOf="@+id/SaveMoneyView"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/SaveMoneyView"
-        app:layout_constraintTop_toBottomOf="@+id/nsgg" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/SaveMoneyView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="12dp"
-        android:layout_marginBottom="101dp"
+        android:fontFamily="sans-serif-black"
+
+        android:text="TextView"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/savemn"
+        app:layout_constraintTop_toBottomOf="@+id/savemn" />
+
+    <TextView
+        android:id="@+id/HstatetView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:fontFamily="sans-serif-black"
         android:text="TextView"
         android:textSize="15sp"
-        app:layout_constraintBottom_toTopOf="@+id/calBtn"
-        app:layout_constraintStart_toStartOf="@+id/savemn"
-        app:layout_constraintTop_toBottomOf="@+id/savemn" />
+        app:layout_constraintStart_toStartOf="@+id/Hstate"
+        app:layout_constraintTop_toBottomOf="@+id/Hstate" />
 
     <TextView
         android:id="@+id/savemn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="40dp"
-        android:layout_marginBottom="7dp"
+        android:layout_marginBottom="6dp"
         android:fontFamily="@font/gompyo"
+        android:textColor="@color/black"
         android:text="절약한 금액"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/SaveMoneyView"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/NStimeView" />
 
-    <ImageButton
-        android:id="@+id/calBtn"
+    <TextView
+        android:id="@+id/Hstate"
+        android:layout_width="153dp"
+        android:layout_height="43dp"
+        android:fontFamily="@font/gompyo"
+        android:textColor="@color/black"
+        android:text="건강 상태"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.155"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/SaveMoneyView"
+        app:layout_constraintVertical_bias="0.115" />
+
+    <TextView
+        android:id="@+id/NStimeView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="47dp"
-        android:layout_marginBottom="76dp"
-        android:background="@android:color/transparent"
+        android:layout_marginBottom="41dp"
+        android:fontFamily="sans-serif-black"
+        android:text="TextView"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/savemn"
+        app:layout_constraintStart_toStartOf="@+id/nsgg"
+        app:layout_constraintTop_toBottomOf="@+id/nsgg" />
+
+    <ImageButton
+        android:id="@+id/chatBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:background="#00ff0000"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/chatBtn"
-        app:layout_constraintStart_toEndOf="@+id/parkBtn"
-        app:srcCompat="@drawable/calsize" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.871"
+        app:srcCompat="@drawable/chatsize" />
+
+    <TextView
+        android:id="@+id/chatView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="52dp"
+        android:fontFamily="@font/gompyo"
+        android:text="챗봇에게 물어보기"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <ImageButton
         android:id="@+id/parkBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="68dp"
-        android:layout_marginEnd="51dp"
-        android:background="@android:color/transparent"
-        app:layout_constraintBottom_toBottomOf="@+id/calBtn"
-        app:layout_constraintEnd_toStartOf="@+id/calBtn"
+        android:background="#00ff0000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.858"
         app:srcCompat="@drawable/parksize" />
 
     <ImageButton
-        android:id="@+id/chatBtn"
-        android:layout_width="60dp"
-        android:layout_height="55dp"
-        android:layout_marginEnd="40dp"
-        android:layout_marginBottom="80dp"
-        android:background="@android:color/transparent"
+        android:id="@+id/Refresh"
+        android:layout_width="37dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="4dp"
+        android:background="#00ff0000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/calBtn"
-        app:srcCompat="@drawable/chaticon" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.005"
+        app:srcCompat="@drawable/backsize" />
+
+    <TextView
+        android:id="@+id/parkView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginBottom="52dp"
+        android:fontFamily="@font/gompyo"
+        android:text="근처 공원찾기"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/chatView" />
+
+    <TextView
+        android:id="@+id/RetimeView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginBottom="52dp"
+        android:fontFamily="@font/gompyo"
+        android:text="금연 다시 시작"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/parkView"
+        app:layout_constraintTop_toBottomOf="@+id/RetimeBtn"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ImageButton
+        android:id="@+id/RetimeBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="30dp"
+        android:background="#00ff0000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/parkBtn"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.86"
+        app:srcCompat="@drawable/nsresize" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
