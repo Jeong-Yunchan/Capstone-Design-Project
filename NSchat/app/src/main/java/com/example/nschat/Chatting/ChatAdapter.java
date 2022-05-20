@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -34,6 +35,7 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MyViewHolder> 
         boolean isReceived = messageList.get(position).getIsReceived();
         if(isReceived){
             holder.messageReceive.setVisibility(View.VISIBLE);
+            holder.ImageReceive.setVisibility(View.VISIBLE);
             holder.messageSend.setVisibility(View.GONE);
             holder.messageReceive.setText(message);
         }else {
@@ -51,11 +53,13 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.MyViewHolder> 
 
         TextView messageSend;
         TextView messageReceive;
+        ImageView ImageReceive;
 
         MyViewHolder(@NonNull View itemView) {
             super(itemView);
             messageSend = itemView.findViewById(R.id.message_send);
             messageReceive = itemView.findViewById(R.id.message_receive);
+            ImageReceive = itemView.findViewById(R.id.chatBotImageView);
         }
     }
 

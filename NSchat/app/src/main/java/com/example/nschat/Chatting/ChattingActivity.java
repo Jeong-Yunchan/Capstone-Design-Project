@@ -244,6 +244,7 @@ public class ChattingActivity extends AppCompatActivity implements BotReply {
     public void callback(DetectIntentResponse returnResponse) {
         if(returnResponse!=null) {
             String botReply = returnResponse.getQueryResult().getFulfillmentText();
+
             if(!botReply.isEmpty()){
                 messageList.add(new Message(botReply, true));
                 chatAdapter.notifyDataSetChanged();
