@@ -1,5 +1,30 @@
 [
   {
+    "id": "4c18a793-6ea2-4a12-bd96-9f1786e5873b",
+    "data": [
+      {
+        "text": "음식",
+        "userDefined": false
+      },
+      {
+        "text": "을 ",
+        "userDefined": false
+      },
+      {
+        "text": "추천",
+        "userDefined": false
+      },
+      {
+        "text": "해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
     "id": "ec52202c-3ea7-4a62-8bfa-402d1990c3be",
     "data": [
       {
@@ -30,8 +55,6 @@
     "data": [
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       }
     ],
@@ -57,13 +80,7 @@
     "id": "71640c34-94f4-4826-a951-2f9e502f8679",
     "data": [
       {
-        "text": "식재료를 ",
-        "userDefined": false
-      },
-      {
-        "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
+        "text": "식재료를 추천",
         "userDefined": false
       },
       {
@@ -111,8 +128,6 @@
       },
       {
         "text": "하니",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -156,8 +171,6 @@
     "data": [
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
@@ -166,8 +179,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -181,8 +192,6 @@
     "data": [
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
@@ -191,8 +200,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -214,8 +221,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -224,14 +229,10 @@
       },
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
         "text": "이",
-        "meta": "@sys.number",
-        "alias": "number",
         "userDefined": false
       },
       {
@@ -266,8 +267,6 @@
     "data": [
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
@@ -276,8 +275,6 @@
       },
       {
         "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -325,8 +322,6 @@
       },
       {
         "text": "요리",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -391,14 +386,10 @@
       },
       {
         "text": "음식",
-        "meta": "@sys.location",
-        "alias": "location",
         "userDefined": false
       },
       {
         "text": "이",
-        "meta": "@sys.number",
-        "alias": "number",
         "userDefined": false
       },
       {

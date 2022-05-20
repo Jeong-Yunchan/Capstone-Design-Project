@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "집중이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -23,14 +21,10 @@
     "data": [
       {
         "text": "집중",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
         "text": "하기",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -48,8 +42,6 @@
     "data": [
       {
         "text": "금연",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -58,14 +50,10 @@
       },
       {
         "text": "집중",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {
         "text": "하기",
-        "meta": "@sys.person",
-        "alias": "person1",
         "userDefined": false
       },
       {

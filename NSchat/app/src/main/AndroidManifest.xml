@@ -6,6 +6,8 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!-- 음성인식을 위한 권한을 선언-->
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
 
     <application
         android:allowBackup="true"
@@ -31,10 +33,9 @@
 
         <activity android:name=".First_Like"></activity>
         <activity android:name=".How_many_cigarette"></activity>
-        <activity android:name=".MapsActivity"></activity>
-        <activity android:name=".nsCalendar.CalendarActivity"></activity>
-        <activity android:name=".ChattingActivity"></activity>
-        <activity android:name=".Parsing"></activity>
+        <activity android:name=".Map.MapsActivity"></activity>
+        <activity android:name=".Chatting.ChattingActivity"></activity>
+        <activity android:name=".Map.Parsing"></activity>
 
     </application>
 </manifest>

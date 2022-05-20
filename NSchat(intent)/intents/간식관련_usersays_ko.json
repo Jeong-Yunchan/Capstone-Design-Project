@@ -3,21 +3,7 @@
     "id": "ef8f1384-0fd9-4ae3-800d-c4be049818b1",
     "data": [
       {
-        "text": "금연에",
-        "userDefined": false
-      },
-      {
-        "text": " 좋은 간식을 ",
-        "userDefined": false
-      },
-      {
-        "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": "해줘",
+        "text": "금연에 좋은 간식을 추천해줘",
         "userDefined": false
       }
     ],
@@ -30,17 +16,7 @@
     "id": "f7367bce-17a7-40f5-aa71-3f93f5159450",
     "data": [
       {
-        "text": "간식",
-        "userDefined": false
-      },
-      {
-        "text": "은",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 뭘 먹는게 좋아?",
+        "text": "간식은 뭘 먹는게 좋아?",
         "userDefined": false
       }
     ],
@@ -66,17 +42,7 @@
     "id": "300b7ba6-c23e-4154-acbf-e14a9c036648",
     "data": [
       {
-        "text": "간식",
-        "userDefined": false
-      },
-      {
-        "text": "이",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": " 먹고 싶어!",
+        "text": "간식이 먹고 싶어!",
         "userDefined": false
       }
     ],
@@ -115,17 +81,7 @@
     "id": "aa8ae150-ef12-4a9d-b565-517cbed3e67a",
     "data": [
       {
-        "text": "간식을 ",
-        "userDefined": false
-      },
-      {
-        "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
-        "userDefined": false
-      },
-      {
-        "text": "해줄래?",
+        "text": "간식을 추천해줄래?",
         "userDefined": false
       }
     ],
@@ -138,13 +94,7 @@
     "id": "fe7860e0-7565-4dc0-88ed-37b6d970851f",
     "data": [
       {
-        "text": "간식",
-        "userDefined": false
-      },
-      {
-        "text": "추천",
-        "meta": "@sys.person",
-        "alias": "person",
+        "text": "간식추천",
         "userDefined": false
       }
     ],

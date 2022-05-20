@@ -4,8 +4,6 @@
     "data": [
       {
         "text": "안녕",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -58,8 +56,6 @@
     "data": [
       {
         "text": "하이",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],
@@ -73,8 +69,6 @@
     "data": [
       {
         "text": "안녕",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       },
       {
@@ -92,8 +86,6 @@
     "data": [
       {
         "text": "안뇽",
-        "meta": "@sys.person",
-        "alias": "person",
         "userDefined": false
       }
     ],

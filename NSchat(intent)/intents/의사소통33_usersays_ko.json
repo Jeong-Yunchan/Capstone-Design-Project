@@ -1,0 +1,27 @@
+[
+  {
+    "id": "e4669d1e-af1d-48dd-b74d-b18c8bb8858d",
+    "data": [
+      {
+        "text": "너가 좋아하는 ",
+        "userDefined": false
+      },
+      {
+        "text": "음식",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
