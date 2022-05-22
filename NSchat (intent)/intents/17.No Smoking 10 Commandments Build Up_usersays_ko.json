@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a04bdb6f-5ffe-4412-9dd8-bc412126f6bc",
+    "data": [
+      {
+        "text": "What do I have to remember?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9f06e7a8-0175-4e7c-a6a4-dc35e2ed3cca",
+    "data": [
+      {
+        "text": "What do you have to know when you quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "379ae828-6a71-4934-b035-22e8d22eafa1",
+    "data": [
+      {
+        "text": "What do I need to know?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "76cd6e77-04ba-41df-8a30-50866f2fa4a9",
+    "data": [
+      {
+        "text": "What should I know before I quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "13c8caf9-2e7d-4b55-b662-95ab17afe6a3",
+    "data": [
+      {
+        "text": "What should I remember before I quit smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "5c9119c8-6649-48be-9893-e2b4743565db",
+    "data": [
+      {
+        "text": "a smoking cessation consultation call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a8e027ff-0a7d-4bc0-8f73-7f9e83ad276d",
+    "data": [
+      {
+        "text": "What\u0027s the call for smoking cessation counseling?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7dbf8aa3-2813-47e7-b0bf-fb5ac16dc6cc",
+    "data": [
+      {
+        "text": "a non-smoking call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7bb6afec-1dc7-4411-b580-f9a6410b621a",
+    "data": [
+      {
+        "text": "Can I have the number for the smoking cessation consultation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

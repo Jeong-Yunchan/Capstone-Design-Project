@@ -1,0 +1,36 @@
+{
+  "id": "e5ae52d2-294c-458f-accf-d37483402cd2",
+  "name": "12.a smoking cessation consultation call",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "You can call 1544-9030 ^^ Monday through Friday from 9:00 a.m. to 10:00 p.m., weekends and holidays from 9:00 a.m. to 6:00 a.m. ^^",
+            "The number of the smoking cessation consultation is 1544-9030."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

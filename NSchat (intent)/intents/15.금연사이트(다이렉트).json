@@ -1,0 +1,36 @@
+{
+  "id": "9186970b-e658-4f37-99b6-1b58c36ddc5d",
+  "name": "15.금연사이트(다이렉트)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "전화상담예약\nhttps://www.nosmokeguide.go.kr/lay2/program/S1T53C65/nosmoke/consulting/applyform.do",
+            "금연길라잡이를 추천드려요.\nhttps://www.nosmokeguide.go.kr/index.do"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

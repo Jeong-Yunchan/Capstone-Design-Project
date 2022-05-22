@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c2dbf7db-9e06-4386-b5f3-8c82b392db35",
+    "data": [
+      {
+        "text": "dizzy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6cf82812-02d3-4534-ba41-b0fa66186eb0",
+    "data": [
+      {
+        "text": "I quit smoking and I feel dizzy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e0735498-70c7-4d37-a079-0232cf8b8904",
+    "data": [
+      {
+        "text": "I feel dizzy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

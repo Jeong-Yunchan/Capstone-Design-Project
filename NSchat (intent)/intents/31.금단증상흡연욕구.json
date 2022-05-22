@@ -1,0 +1,37 @@
+{
+  "id": "9af7fb57-17d3-44c0-8c5f-8cbac8a41432",
+  "name": "31.금단증상흡연욕구",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "담배를 피고 싶을 때 운동을 해보세요",
+            "운동을 추천 해요",
+            "운동을 하시는 것이 좋을 것 같아요"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "785c7328-ebca-43a8-ab59-74b3475b066d",
+    "data": [
+      {
+        "text": "I started quitting smoking!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6731339d-2cc8-4d54-88cf-eac7bd3ce2b9",
+    "data": [
+      {
+        "text": "I started quitting smoking. What should I do ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c08d6827-56c8-4fca-97ba-3f9ae09bad0b",
+    "data": [
+      {
+        "text": "What are the advantages of quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1ea622e4-333a-4cc7-b020-eb8f617d372b",
+    "data": [
+      {
+        "text": "the advantages of smoking cessation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e89ec7a2-a1f6-4acb-b8ae-7028b4b52bfd",
+    "data": [
+      {
+        "text": "Tell me the good things about quitting smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "96b29225-e93b-4170-8f7a-ffe0ba14aae2",
+    "data": [
+      {
+        "text": "the advantages of quitting smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c83ce1b1-3e18-414d-b042-54cb1d02ac37",
+    "data": [
+      {
+        "text": "What\u0027s good about quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0c5f8dbf-4924-40ab-b5ed-ec038c771bbf",
+    "data": [
+      {
+        "text": "What\u0027s the benefit of quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  }
+]

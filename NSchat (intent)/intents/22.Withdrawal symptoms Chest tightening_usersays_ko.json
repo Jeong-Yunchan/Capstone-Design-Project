@@ -1,0 +1,80 @@
+[
+  {
+    "id": "19a92933-03f3-47a3-9ce1-c32c1fafad54",
+    "data": [
+      {
+        "text": "My heart is tight ㅠㅠ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "49fb72b3-3d8c-4e8b-9980-9b564ee023ef",
+    "data": [
+      {
+        "text": "My heart hurts a little",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "30148ded-03df-4fbe-b445-c735cea3c29b",
+    "data": [
+      {
+        "text": "My chest is stuffy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "14fabf00-7d79-44d9-bb2c-af3345b8d181",
+    "data": [
+      {
+        "text": "My heart aches",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "679b1c2d-5bee-4bdf-9cba-2e9098d3a62c",
+    "data": [
+      {
+        "text": "I feel like my chest is tightening",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "69dbcc8a-111c-4efd-a321-7d1921c08ba9",
+    "data": [
+      {
+        "text": "It\u0027s frustrating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

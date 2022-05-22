@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b7117f35-ae6a-4835-b53d-e175670b156f",
+    "data": [
+      {
+        "text": "It\u0027s hard to quit smoking and concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a5d92474-6797-4128-8990-c98cf0f99835",
+    "data": [
+      {
+        "text": "It\u0027s hard to concentrate ㅠㅠ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1dcb4644-5e2c-422b-8189-96f84ce47196",
+    "data": [
+      {
+        "text": "I can\u0027t concentrate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

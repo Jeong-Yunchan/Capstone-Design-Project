@@ -1,0 +1,45 @@
+[
+  {
+    "id": "bdfb37ca-5c84-435c-a35f-5e8e6a2c1522",
+    "data": [
+      {
+        "text": "Sure",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bc13167d-1a04-4683-a701-c26d1e182f87",
+    "data": [
+      {
+        "text": "y",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "47e54f31-41d5-4f8a-95bb-612322689972",
+    "data": [
+      {
+        "text": "yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

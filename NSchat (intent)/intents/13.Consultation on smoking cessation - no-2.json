@@ -1,0 +1,38 @@
+{
+  "id": "59ed2452-7ccd-4ea8-a538-f8f05d17e49a",
+  "name": "13.Consultation on smoking cessation - no-2",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "Telephone consultation reservation\nhttps://www.nosmokeguide.go.kr/lay2/program/S1T53C65/nosmoke/consulting/applyform.do",
+            "Schedule a call to quitline@ncc.re.kr\nIf you apply, a professional counselor\nThey\u0027ll contact us."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

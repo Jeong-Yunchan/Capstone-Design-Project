@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c098b264-c3b5-4862-9c02-ff2b7e43d0e3",
+    "data": [
+      {
+        "text": "I can\u0027t concentrate well when I quit smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "557b0ec6-066b-4cda-b56e-c976cd3a4b44",
+    "data": [
+      {
+        "text": "I can\u0027t concentrate well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f7f1a9f9-7f12-4324-9566-cdc180b3a12c",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " so nervous I can\u0027t stand it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0bfa1601-390d-4361-8ac6-9f58c1b9631f",
+    "data": [
+      {
+        "text": "I can\u0027t sleep well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "92028300-c1d6-46a0-8b4c-6b5d6c428ac3",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " nervous and sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "97a6c199-dace-4cec-9ccb-5e0687343792",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " nervous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "68475f66-ba09-4de7-9220-845db5a526f6",
+  "name": "15.Non-smoking site (direct)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "Telephone consultation reservation\nhttps://www.nosmokeguide.go.kr/lay2/program/S1T53C65/nosmoke/consulting/applyform.do",
+            "I recommend you to stop smoking.\nhttps://www.nosmokeguide.go.kr/index.do"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

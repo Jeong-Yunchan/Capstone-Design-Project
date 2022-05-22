@@ -1,0 +1,38 @@
+{
+  "id": "587c3371-372f-4da7-8f0e-ef752d51947c",
+  "name": "05.Snack",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"Vegetables or fruits such as cucumber, carrot, paprika, green tea,\nIt\u0027s good to eat roasted beans, kelp pieces, etc. as a snack!\"",
+            "“I recommend peaches!\nDetoxifies nicotine and protects liver and lung function\nIt has a calming effect to treat cough and phlegm.\"",
+            "“I recommend green tea!\nIt has a catechin component that binds to nicotine and removes toxins, and the theanine component is known to help relieve stress caused by withdrawal when quitting smoking. In addition, green tea has five times the vitamin C content of lemons, so it can supplement vitamin C consumed by smoking, making it an essential food for non-smokers.\"",
+            "\"I recommend the pistachio~~\nIt is effective in appeasing a dull appetite.”"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
