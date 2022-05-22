@@ -1,0 +1,42 @@
+{
+  "id": "fc0fb72f-ed5e-4b3b-948b-df82f3764c9d",
+  "name": "11.an anti-smoking campaign",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"I\u0027ve been working on a medium-intensity aerobic exercise for 11 weeks during the period of quitting smoking\nThe results show that exercise suppresses your desire to smoke.\"",
+            "If you\u0027re at work, try stretching!",
+            "I recommend walking or taking a walk.",
+            "Why don\u0027t you try riding a bike?",
+            "I recommend you to dance",
+            "\"I recommend weight training. If you do weight training,\nStudies have shown that the success rate of smoking cessation doubles.\"",
+            "When you exercise, dopamine, a neurotransmitter related to joy,\nYou can find fewer cigarettes because it\u0027s secreted and makes you feel better. I recommend aerobic exercise.",
+            "How about swimming?\nIt helps you build up your physical strength and refresh your mind and body\nIt\u0027s a good exercise"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

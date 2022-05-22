@@ -1,0 +1,88 @@
+[
+  {
+    "id": "078daec6-972f-46fb-87e8-5104e2c81cc7",
+    "data": [
+      {
+        "text": "I quit smoking and became sensitive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5623c242-715c-4859-a9d6-7ff3b0fb768c",
+    "data": [
+      {
+        "text": "It\u0027s sensitive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bfd5210c-80c2-46e7-8c01-f6d2e51e2717",
+    "data": [
+      {
+        "text": "I think I\u0027ve gotten too sensitive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9fd2ff80-2045-4bac-8217-88d407db50d7",
+    "data": [
+      {
+        "text": "I think ",
+        "userDefined": false
+      },
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " getting on my nerves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "0a1c9914-8e99-4180-a624-953c22d49a61",
+    "data": [
+      {
+        "text": "I think I got sensitive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c5ea0eef-9f95-47ba-8491-cc175f52a9fe",
+    "data": [
+      {
+        "text": "I got sensitive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  }
+]

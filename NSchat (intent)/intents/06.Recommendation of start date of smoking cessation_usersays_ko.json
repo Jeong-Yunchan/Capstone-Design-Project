@@ -1,0 +1,75 @@
+[
+  {
+    "id": "e7d4a8a6-e9b2-47c8-be31-e1607559d862",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "userDefined": false
+      },
+      {
+        "text": " I start quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "54b0bda2-6b3d-413f-afc8-8037621841c2",
+    "data": [
+      {
+        "text": "Start smoking cessation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "143c3042-acdf-4be3-ad69-46caa74af383",
+    "data": [
+      {
+        "text": "Smoking cessation start time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b6ad5902-2d9f-4bbd-9fa1-3252de059cf3",
+    "data": [
+      {
+        "text": "Recommend starting smoking cessation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "648d7017-af14-4108-b48e-048c24664831",
+    "data": [
+      {
+        "text": "When do I start quitting smoking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

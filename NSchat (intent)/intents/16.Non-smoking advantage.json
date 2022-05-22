@@ -1,0 +1,39 @@
+{
+  "id": "4c808f35-0949-4c24-bf66-c9368b8f509c",
+  "name": "16.Non-smoking advantage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "If you quit smoking, you can save money and time!",
+            "You Can Keep Your Health!",
+            "My life span will be extended, right?",
+            "It improves your physical strength.",
+            "Money is saved."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

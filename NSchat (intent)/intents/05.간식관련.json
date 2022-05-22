@@ -1,0 +1,38 @@
+{
+  "id": "ee61e4ce-ebb2-429d-8676-dc2d108554ce",
+  "name": "05.간식관련",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"오이, 당근, 파프리카 등의 채소나 과일, 녹차,\n볶은 콩, 다시마 조각 등을 간식으로 먹으면 좋아요!\"",
+            "\"복숭아를 추천해요!\n니코틴을 해독하고 간, 폐 기능을 보호하고\n기침과 가래 등을 치료하는 안정제 효과가 있어요.\"",
+            "\"녹차를 추천해요!\n니코틴과 결합해 독성을 제거하는 카테킨 성분을 지니고 있고, 테아닌 성분은 금연 시 금단 현상으로 인한 스트레스 해소에 도움을 주는 것으로 알려져 있어요. 또한, 녹차는 비타민 C 함유량이 레몬의 5배에 달해 흡연으로 인해 소모된 비타민 C를 보충할 수 있어 금연자에게 필수적인 음식이라고 해요.\"",
+            "\"피스타치오를 추천해요~~\n심심한 입맛을 달래는 데 효과적이랍니다.\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

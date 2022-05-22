@@ -1,0 +1,36 @@
+{
+  "id": "3e5d230e-9387-430f-a58f-6bdd5c5a6ee3",
+  "name": "07.After starting smoking cessation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"Having a party after quitting smoking,\nIt helps you quit smoking!\"",
+            "\"I don\u0027t want to tell people around me that I quit smoking\nLet\u0027s call and ask for help.\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "a6ab5f8c-27ce-49c2-9084-04da4fb089db",
+  "name": "03.금연 방법",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "첫째, 생각을 확고히 가지는게 좋아요!! \n\n둘째 , 결심을 굳게 하여 금연일을 정해봐요 !!\n\n셋째, 이러한 사실을 여러 사람들에게 널리알리는 방법도 있어요!!\n\n넷째 ,환경조성도 조절해봐요!  \n\n다섯째, 금단 증상에 대응하는 방법을 알아보죠 !\n\n여섯번째, 니코틴 패치와 니코틴 껌을 사용해보는것도 추천드려요!!\n\n금연 확실하게 하기 파이팅 !!~!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

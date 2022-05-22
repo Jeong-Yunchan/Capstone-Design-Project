@@ -1,0 +1,45 @@
+[
+  {
+    "id": "ed286703-3a93-4d72-a422-f9c59af6fbb6",
+    "data": [
+      {
+        "text": "It\u0027s hard to quit smoking. Please give me advice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "bb883c5e-5cac-448b-8b78-069be8906353",
+    "data": [
+      {
+        "text": "I want to smoke. I need a consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "11b7d15e-62d4-42f7-890a-4037880ea414",
+    "data": [
+      {
+        "text": "Yeah, I want to smoke. Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "a consult",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

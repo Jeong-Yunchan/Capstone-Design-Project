@@ -1,0 +1,40 @@
+{
+  "id": "378339a0-0b72-4aba-b337-7f4fdb960a92",
+  "parentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "rootParentId": "f72fb802-b823-4c4d-9a1e-377b86624a57",
+  "name": "금연상담문의 - Yes",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "전화상담예약\nhttps://www.nosmokeguide.go.kr/lay2/program/S1T53C65/nosmoke/consulting/applyform.do",
+            "금연길라잡이를 추천드려요.\nhttps://www.nosmokeguide.go.kr/index.do"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

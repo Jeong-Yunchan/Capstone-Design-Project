@@ -1,0 +1,106 @@
+[
+  {
+    "id": "25259ef1-0298-44fb-8084-203173d62bde",
+    "data": [
+      {
+        "text": "The number of the smoking cessation consultation is 1544-9030.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ec40ce10-fcd6-4c45-8362-e0363ea6ece1",
+    "data": [
+      {
+        "text": "a consultation call",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8d77a196-d730-4c28-8740-29c8e4cd2075",
+    "data": [
+      {
+        "text": "Smoking cessation counseling phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "637b5f27-2c5f-43ae-8a14-5206331d278a",
+    "data": [
+      {
+        "text": "Tell me the number for the consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5dac1d7a-426a-47d3-9c6e-3703aaf13a01",
+    "data": [
+      {
+        "text": "Consultation phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a8406d36-fb43-49ab-bcc8-4a84bda2d371",
+    "data": [
+      {
+        "text": "Consultation cell phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "407e33e9-91fa-42e8-a2f1-1aa4ecc54a1f",
+    "data": [
+      {
+        "text": "No smoking consultation cell phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "11ec1702-60b1-4935-8bf1-36dee0eb6a1a",
+    "data": [
+      {
+        "text": "Non-smoking consultation phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "383c6e88-1b9f-4311-a92a-a2d89b19500c",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " constipated for non-smoking reasons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "51db8ade-795d-4122-bade-70e1cf1a9e14",
+    "data": [
+      {
+        "text": "I think I quit smoking and have constipation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b47a2381-07a9-4e61-9f2e-43688f41820a",
+    "data": [
+      {
+        "text": "I quit smoking and cough a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fb5fc042-ad6f-4ac9-aa20-0df6f8849331",
+    "data": [
+      {
+        "text": "I think I cough a lot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8c54859f-e3d9-49f9-939f-6a847875b1a6",
+    "data": [
+      {
+        "text": "cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a84be1ce-57c5-4f71-ae34-ccdc09deab5f",
+    "data": [
+      {
+        "text": "Constipation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "92a4b631-35a3-400c-b28a-501835edc984",
+    "data": [
+      {
+        "text": "Suddenly, constipation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "487df250-51af-44ad-be7d-bb5093d3b221",
+    "data": [
+      {
+        "text": "Cough all of a sudden",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

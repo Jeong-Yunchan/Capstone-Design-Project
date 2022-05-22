@@ -1,0 +1,37 @@
+{
+  "id": "1ec82c32-8343-43b8-af24-818a117385f0",
+  "name": "10.anti-smoking supplement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "I recommend nicotine gum for quitting smoking!",
+            "Nicotine Tricoje (Pill) is recommended for smoking cessation!",
+            "I recommend nicotine patches for smoking cessation!\nBut please be careful about using the patch type.\nI usually use nicotine-containing products that match my smoking volume, but smoking with patches can cause severe dizziness and headaches. This is because nicotine, which contracts blood vessels, enters the body excessively.\nAlso, if you are suffering from or suspecting heart disease such as myocardial infarction, you should not use a patch."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

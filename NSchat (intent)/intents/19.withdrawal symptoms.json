@@ -1,0 +1,35 @@
+{
+  "id": "620c4da2-6d29-4613-8e6b-201d4be54582",
+  "name": "19.withdrawal symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"First, I have a strong urge or desire to smoke\n\nSecond, there can be irritation, dissatisfaction, and anger\n\nThird, it can be chest tight or restless\n\nFourth, your concentration may decrease\n\nFifth, you may have a sleep disorder\n\nSixth, there\u0027s hunger, which can lead to weight gain\n\nSeventh, anxiety, sadness, and depression can come\n\nPlease be careful because these things can come out!\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
