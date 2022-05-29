@@ -125,6 +125,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                 SharedPreferences sharedPreferences= getSharedPreferences("NS",MODE_PRIVATE);    // NS 이름의 기본모드 설정
                 SharedPreferences.Editor editor= sharedPreferences.edit(); //sharedPreferences를 제어할 editor를 선언
                 editor.putLong("time",resettime);
+                editor.putLong("goal_time",resettime);
                 editor.apply();
 
                 //액티비티 다시 시작
