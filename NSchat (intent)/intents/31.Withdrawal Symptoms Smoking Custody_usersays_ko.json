@@ -1,0 +1,32 @@
+[
+  {
+    "id": "76fa3314-c35a-4919-8163-9fbb2a19633f",
+    "data": [
+      {
+        "text": "I really want to smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7e1d3f8e-4f40-4271-a223-c6e9505695bc",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " craving cigarettes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

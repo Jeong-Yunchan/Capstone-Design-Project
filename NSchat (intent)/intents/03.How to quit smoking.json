@@ -1,0 +1,35 @@
+{
+  "id": "27c64098-71a9-482a-a895-1bbde7647949",
+  "name": "03.How to quit smoking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "First, it\u0027s good to have a firm mind!!\n\nSecond, make up your mind and set a smoking cessation day!!\n\nThird, there is a way to spread this fact to many people!!\n\nFourth, adjust the environment composition too!\n\nFifth, let\u0027s learn how to respond to withdrawal symptoms!\n\nSixth, I recommend using a nicotine patch and nicotine gum!!\n\nFighting to ensure smoking cessation!!~!!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

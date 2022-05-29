@@ -1,0 +1,28 @@
+[
+  {
+    "id": "49a24fc4-8e29-42d9-8025-635b379952c1",
+    "data": [
+      {
+        "text": "너 뭐하냐?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "22aec1c0-f06d-4426-b586-50b02c0c9627",
+    "data": [
+      {
+        "text": "너 뭐하니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

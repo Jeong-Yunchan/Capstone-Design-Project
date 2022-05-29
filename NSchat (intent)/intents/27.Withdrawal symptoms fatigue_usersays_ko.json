@@ -1,0 +1,32 @@
+[
+  {
+    "id": "624376f1-6a39-40eb-b37c-e1bd90665c8c",
+    "data": [
+      {
+        "text": "I quit smoking and I\u0027m so tired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "676418b3-aef6-4dba-906b-e731174418f7",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " tired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

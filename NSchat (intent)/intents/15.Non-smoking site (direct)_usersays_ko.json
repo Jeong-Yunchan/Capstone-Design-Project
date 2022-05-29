@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ac523818-bf79-4998-9e69-c9d1e4aff896",
+    "data": [
+      {
+        "text": "a non-smoking site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6cf0681c-9387-4261-b3fa-0b8372dee220",
+    "data": [
+      {
+        "text": "a smoking cessation counseling site",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b495e7f7-fcaa-4ac3-b8f2-106037fa2430",
+    "data": [
+      {
+        "text": "websites that help you quit smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "id": "b6349ee3-45ff-4a60-b9f6-c4a6389aa21c",
+  "name": "13.Consultation on smoking cessation - yes",
+  "auto": true,
+  "contexts": [
+    "-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "Telephone consultation reservation\nhttps://www.nosmokeguide.go.kr/lay2/program/S1T53C65/nosmoke/consulting/applyform.do",
+            "I recommend you to stop smoking.\nhttps://www.nosmokeguide.go.kr/index.do"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

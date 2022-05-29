@@ -1,0 +1,35 @@
+{
+  "id": "b9623e4b-ff64-4c2a-b21e-a85c9ca4f863",
+  "name": "19.금단증상",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"첫째, 강한 흡연 충동 또는 욕구가 있어요\n\n둘째, 짜증, 불만, 분노가 있을수도 있어요\n\n셋쨰, 가슴 졸임 또는 안절부절 할수도있어요\n\n넷째, 집중력이 저하 될수있어요\n\n다섯번째, 수면장애가 있을수도 있어요\n\n여섯번째, 배고픔이 있고 이로인해 체중증가가 있을수 있어요\n\n일곱번째 , 불안하고 슬프고 우울중이 올수도있어요\n\n이러한것들이 나올수있으니 조심하시길 바래요!!\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "fdcb07c1-6f51-4111-8a7e-802f54912186",
+  "name": "04.음식관련",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"음식은 몸 속의 니코틴을 해독하고 흡연으로 인해 약화된\n인체를 회복하는 데 도움을 주는 비타민 C, E, 베타카로틴,\n식이섬유가 풍부한 음식을 섭취하기 위해 브로콜리, 당근, 시금치, 양파, 연근, 고구마 등의 채소와 해산물을 드시는 것을 추천드려요!\"",
+            "파래를 이용한 요리를 추천해요. 파래에는 혈액에 축적된 타르와 니코틴, 콜레스테롤 등의 유해물질을 제거하는 메틸메타오닌 등이 풍부하게 들어있어요 그리고 손상된 폐점막을 재생하고 보호할 뿐 아니라 항산화작용을 하는 비타민A도 다량 포함하고 있답니다.",
+            "단호박을 이용한 요리를 추천해요! 담배를 끊으면 평소와 같은 식습관과 생활방식을 유지하더라도 2~3㎏ 체중이 늘어나기도 한다고 해요. 저칼로리 음식을 섭취하는 것을 추천드려요!!",
+            "감자요리를 추천드려요!",
+            "\"섬유질을 섭취하는 것은 금연과 동시에 배변에 어려움을\n호소하는 사람들에게 도움을 줍니다.\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

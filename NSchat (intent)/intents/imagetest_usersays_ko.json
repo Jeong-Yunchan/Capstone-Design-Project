@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1a05b0c8-6fdd-416d-9446-59ca92a7899c",
+    "data": [
+      {
+        "text": "이미지test",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "edd18240-61ed-4615-a9f3-e49f02283358",
+    "data": [
+      {
+        "text": "이미지보여줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6f99288a-feab-4f95-be69-e2140bc24897",
+    "data": [
+      {
+        "text": "이미지테스트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "64a693fa-d47e-4bab-8d2d-b8f4052297a1",
+    "data": [
+      {
+        "text": "이미지 테스트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cbefac23-9f2b-4a62-b6b0-a0141c222670",
+    "data": [
+      {
+        "text": "이미지",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

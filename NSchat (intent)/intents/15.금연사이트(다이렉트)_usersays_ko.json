@@ -1,0 +1,70 @@
+[
+  {
+    "id": "9f2d7885-b5e8-4e4f-a69d-2b94f56dd58e",
+    "data": [
+      {
+        "text": "금연",
+        "userDefined": false
+      },
+      {
+        "text": "을 도와주는 사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2a419edd-544f-42bc-b915-01ab583d3a19",
+    "data": [
+      {
+        "text": "금연",
+        "userDefined": false
+      },
+      {
+        "text": "사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "64f8f525-3673-44c7-8acc-caf486435aa9",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      },
+      {
+        "text": "사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c1c62a3c-fe68-4716-8d71-512f28448dd5",
+    "data": [
+      {
+        "text": "금연",
+        "userDefined": false
+      },
+      {
+        "text": " 사이트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
