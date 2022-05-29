@@ -29,7 +29,7 @@ public class How_many_cigarette extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                if(cigarText.getText().toString().equals("0")){
+                if(cigarText.getText().toString().equals("0") || cigarText.getText().toString().equals("")){
                     Toast.makeText(How_many_cigarette.this, "1~99까지 가능합니다.", Toast.LENGTH_SHORT).show();
                 }else {
 

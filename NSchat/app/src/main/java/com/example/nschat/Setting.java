@@ -18,6 +18,7 @@ public class Setting extends AppCompatActivity {
     EditText SettingGoalText;
     String Goal_set;
     TextView NowGoal;
+    Button Goal_Reset_Btn;
 
 
     @Override
@@ -26,6 +27,7 @@ public class Setting extends AppCompatActivity {
         setContentView(R.layout.setting);
         SettingGoalText = findViewById(R.id.setting_goals);
         NowGoal = (TextView) findViewById(R.id.nowGoal);
+        Goal_Reset_Btn = findViewById(R.id.Goal_Reset_Btn);
 
         Button imageButton = (Button) findViewById(R.id.setsaveBtn);
 
@@ -40,16 +42,31 @@ public class Setting extends AppCompatActivity {
 
                 if(SettingGoalText.getText().toString().equals("0")){
                     Toast.makeText(Setting.this, "1~999일 까지 가능합니다.", Toast.LENGTH_SHORT).show();
-                }else {
+                }
+                else if(SettingGoalText.getText().toString().equals("")){
+                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                    startActivity(intent);
+                }
+                else {
 
                     editor.putString("goal", SettingGoalText.getText().toString()); // key,value 형식으로 저장
-                    editor.commit();    //최종 커밋. 커밋을 해야 저장이 된다.
-
+                    editor.apply();    //최종 커밋. 커밋을 해야 저장이 된다.
 
                     Log.d("MSG", String.valueOf(Goal_set));
                     Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                     startActivity(intent);
                 }
+            }
+        });
+        Goal_Reset_Btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                long GoalTime = System.currentTimeMillis();
+
+                editor.putLong("goal_time", GoalTime);
+                editor.apply();
+
             }
         });
     }
