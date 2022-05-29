@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ed46fdab-a80d-4052-b3e6-28db92040f64",
+    "data": [
+      {
+        "text": "Reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d256b2ba-3870-4b10-8bda-3a84bbb9f4d0",
+    "data": [
+      {
+        "text": "Application for reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f143007b-b4a9-4802-a309-a23cab31e8c4",
+    "data": [
+      {
+        "text": "Consultation reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b605ebe6-2808-4104-99db-dfb07a5f3f5a",
+    "data": [
+      {
+        "text": "Application for consultation reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f185fe72-a8dc-4e26-b15d-5ef3af7eae4a",
+    "data": [
+      {
+        "text": "I\u0027d like to book a consultation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

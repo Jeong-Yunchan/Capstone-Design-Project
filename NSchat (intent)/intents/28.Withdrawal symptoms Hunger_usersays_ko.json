@@ -1,0 +1,58 @@
+[
+  {
+    "id": "97541cc6-5259-4a19-8158-0276052c7f1f",
+    "data": [
+      {
+        "text": "I quit smoking and I think I get hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a892658a-d267-4e8f-8992-5dc772e91afb",
+    "data": [
+      {
+        "text": "I get hungry often",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "89ec7a62-ab08-4a71-bbd7-ec5d8e42bbcf",
+    "data": [
+      {
+        "text": "hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cacff0de-64d4-4cf3-b5d9-66649da8d2c7",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

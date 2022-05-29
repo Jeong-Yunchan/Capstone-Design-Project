@@ -1,0 +1,51 @@
+{
+  "id": "c9ede2a8-6512-4bf6-b624-0c3169a372c2",
+  "name": "08.the habit of quitting smoking",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "I\u0027ll replace cigarettes when I think of them\nI recommend that you decide in advance",
+            "Did you brush your teeth? I recommend brushing your teeth",
+            "Drink a glass of cold water",
+            "\"Whenever I think of cigarettes, I think about what I can do immediately\nIt\u0027s helpful to be prepared in advance.\"",
+            "Try using your hands a lot like knitting.",
+            "I recommend playing games!",
+            "Playing the piano can also help.",
+            "You\u0027d better not smoke if you want to save on cigarette gradients!",
+            "Just work out. The joy of dopamine from exercising is bigger, more powerful, and more addictive than the joy of dopamine from nicotine!",
+            "Don\u0027t say that",
+            "Stop whining.",
+            "It\u0027s loud",
+            "\"Use your smartphone alarm to hold it for five minutes.\nThe powerful temptation of cigarettes reaches its peak in less than minutes\nIt often disappears, so five minutes will help.\"",
+            "I watch TV shows",
+            "Let\u0027s watch a movie.",
+            "Why don\u0027t you go for a walk?",
+            "Take a deep breath of tea or water."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

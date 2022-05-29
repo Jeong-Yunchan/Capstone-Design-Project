@@ -1,0 +1,88 @@
+[
+  {
+    "id": "3eb87aa8-4b8d-43b9-b0d6-912695520f96",
+    "data": [
+      {
+        "text": "It reminds me of cigarettes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9615775c-e1df-4283-968d-50ad92bb5435",
+    "data": [
+      {
+        "text": "I want to smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "1eaa2b17-e946-40f8-ba12-ea76c8fd03d8",
+    "data": [
+      {
+        "text": "It\u0027s hard to quit smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6a01c9c6-9c92-4ce4-a203-3e64ec681c9e",
+    "data": [
+      {
+        "text": "It reminds me of smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5c553512-a246-48c9-8f9c-902845e418ae",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " thinking of smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5e31b00f-52cb-41f1-a6c5-ecd0701469d3",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " going to smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ko",
+    "updated": 0
+  }
+]

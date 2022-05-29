@@ -1,0 +1,43 @@
+{
+  "id": "920ebe08-86d8-4d7c-8ac4-4b7cf12b8f81",
+  "name": "01.인사",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "안녕하세요 !!  금연 잘되가시나요??",
+            "하이 ~! 하이~! \u003e\u003c!!",
+            "안녕하세욤 \u003e\u003c~!!",
+            "하윙~!",
+            "안뇽~안뇽~"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

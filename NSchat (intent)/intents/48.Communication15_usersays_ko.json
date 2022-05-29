@@ -1,0 +1,23 @@
+[
+  {
+    "id": "5dda93f8-3846-483c-adb0-c9e020cb7226",
+    "data": [
+      {
+        "text": "Are you a smoker by any ",
+        "userDefined": false
+      },
+      {
+        "text": "chance",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

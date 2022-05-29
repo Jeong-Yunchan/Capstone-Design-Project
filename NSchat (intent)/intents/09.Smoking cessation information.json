@@ -1,0 +1,47 @@
+{
+  "id": "6d395cd2-1fa5-4eac-a8cc-028c2a10dde1",
+  "name": "09.Smoking cessation information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "Public health centers in each city and county open various smoking cessation clinics,\nThrough the measurement of carbon monoxide in the body and the analysis of body fat percentage,\nIt suggests a way to quit smoking for individuals.",
+            "It\u0027s good to prepare for quitting smoking 7 to 15 days before quitting smoking and quit at once.",
+            "\"It\u0027s a good idea to visit a smoking cessation clinic for medical treatment.\nSmoking cessation clinic site (http://mdon.co.kr/mobile/article.html?no\u003d32373)\"",
+            "When you quit smoking, go through the first week well. On the third day, withdrawal symptoms begin in earnest, and it takes about 3 to 7 days for nicotine to be released from the body.",
+            "Make a new habit. Try to make movements that are simple but require continuous deep breathing frequently. You\u0027ll be able to forget your cigarette thoughts for a moment with a hard breath.",
+            "Start with active methods such as consulting your doctor, smoking cessation aids, and so on.",
+            "Try an 8- or 12-week smoking cessation treatment program. From the third visit, the government will pay the entire treatment fee, and if you complete the entire program, you can get a refund for the first and second treatment fees you paid.",
+            "Be strong-willed.",
+            "If you made up your mind, decide on a date to quit smoking\nIt is recommended that smoking cessation days are usually set from 7 to 10 days later.\nIf you hold it too far back, you are likely to be disturbed.\nIt\u0027s good to avoid stressful times.\nIf you set a non-smoking day ahead of the test, you are more likely to fail.",
+            "Withdrawal symptoms get worse three to four days after quitting smoking\nIt gets worst in 3 to 4 days and disappears in 2 to three weeks.",
+            "It is recommended to breathe fresh air or exercise during smoking cessation.",
+            "While quitting smoking, chewing silver, chewing unsweetened gum,\nDrinking cold water and brushing your teeth are also helpful.",
+            "Nicotine patches and nicotine gum help you quit smoking.\nUse this method with the help of a doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

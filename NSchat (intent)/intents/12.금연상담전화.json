@@ -1,0 +1,36 @@
+{
+  "id": "7be8037c-a47b-4ccb-b0a8-2e904ca3d732",
+  "name": "12.금연상담전화",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "1544-9030 으로 전화해보시면 되염 ^^ 월~금요일 오전 9시 ~오후 10시,주말 및 공휴일 오전 9시 ~6시에 가능해욤^^",
+            "금연상담전화번호는 1544-9030입니다."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

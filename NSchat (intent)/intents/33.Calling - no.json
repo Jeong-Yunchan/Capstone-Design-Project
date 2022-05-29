@@ -1,0 +1,37 @@
+{
+  "id": "cee51c68-2246-4302-8bb6-1d976ff584c2",
+  "name": "33.Calling - no",
+  "auto": true,
+  "contexts": [
+    "-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": ".-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "If you have any questions, feel free to ask."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

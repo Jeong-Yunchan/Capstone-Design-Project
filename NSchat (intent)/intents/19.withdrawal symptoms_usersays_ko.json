@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fdf00e6e-6126-458f-b6e1-22e0b3ecdf75",
+    "data": [
+      {
+        "text": "What\u0027s with withdrawal symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "2453da2c-e3a1-4ab2-8f92-957e9b80ebb8",
+    "data": [
+      {
+        "text": "Withdrawal symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "17b59eb4-9b12-463f-b60f-95b1fc0f4250",
+    "data": [
+      {
+        "text": "Tell me the symptoms of withdrawal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "ffb9cc10-646a-45d3-9bed-212945108a77",
+    "data": [
+      {
+        "text": "withdrawal symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "d6c84c41-3678-411c-9380-abde6130d28e",
+    "data": [
+      {
+        "text": "List the withdrawal symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "86175d96-b14e-4c46-9195-0c75494f853a",
+    "data": [
+      {
+        "text": "Tell me about withdrawal symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "88cd60f9-d0bc-47fa-812b-ee34939ccb30",
+    "data": [
+      {
+        "text": "Do you have any withdrawal symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

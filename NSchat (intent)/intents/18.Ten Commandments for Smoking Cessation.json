@@ -1,0 +1,35 @@
+{
+  "id": "c30ecfa5-b0a4-4d82-aa17-4745bf05e494",
+  "name": "18.Ten Commandments for Smoking Cessation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"First! Let people know about quitting smoking.\"\n\nSecond! Create a new atmosphere and enjoy hobbies\n\nThird! Rest in peace during withdrawal symptoms\n\nFourth! Throw away the lighter, ashtray, etc\n\nFifth! Brushing your teeth right after you eat\n\nSixth! Drink water when you want to smoke!\n\nSeventh! Stay away from smoking places and people!\n\nEighth! Don\u0027t hold a cigarette in your mouth!\n\n9th! Eating foods that are high in fiber\n\nNumber 10! Avoid coffee and soda!\n\n★ Remember when you quit smoking The Ten Commandments for No Smoking ★\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

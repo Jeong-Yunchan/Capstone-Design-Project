@@ -1,0 +1,148 @@
+[
+  {
+    "id": "d5383c5e-e5c5-461d-8079-68a165651d48",
+    "data": [
+      {
+        "text": "I want information about quitting smok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "847fc3d1-d922-4ec6-9f82-276c76a5e8d1",
+    "data": [
+      {
+        "text": "I want help quitting smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "fc9f69ca-6cd0-4166-a217-f03d16011ac9",
+    "data": [
+      {
+        "text": "I need help with quitting smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "8b7db8e5-fd43-40fc-b4a6-c029f9e43987",
+    "data": [
+      {
+        "text": "Help me quit smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "379febca-e1f1-4bcc-b04e-14863ca9bdb2",
+    "data": [
+      {
+        "text": "I want to quit smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "f9048ddc-e241-4195-a344-e2ee629db244",
+    "data": [
+      {
+        "text": "Smoking is prohibited from today.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a7c72062-1b5d-4031-9e7c-15c67c62f701",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " going to quit smoking!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "5c3a213b-dfbe-49bc-8408-a572cc4edfad",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " quitting smoking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9e3619b0-bd8d-486d-8402-c7edebfe7e0d",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " quitting smoking from today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "e5fd32af-dd17-4c11-b505-6e25dfa6a39a",
+    "data": [
+      {
+        "text": "I\u0027m",
+        "userDefined": false
+      },
+      {
+        "text": " not going to smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

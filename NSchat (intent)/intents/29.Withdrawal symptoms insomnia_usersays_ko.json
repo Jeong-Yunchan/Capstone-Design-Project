@@ -1,0 +1,41 @@
+[
+  {
+    "id": "c35fbb7a-859a-4a40-8b35-9bd8565e917f",
+    "data": [
+      {
+        "text": "I quit smoking and can\u0027t sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "6ed67c30-4009-4e99-acf7-041f9dd436b2",
+    "data": [
+      {
+        "text": "Insomnia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7e21dac5-1d8a-4d51-98c8-e3dbb9efab83",
+    "data": [
+      {
+        "text": "I can\u0027t sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

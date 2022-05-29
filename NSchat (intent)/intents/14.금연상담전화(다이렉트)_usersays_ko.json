@@ -1,0 +1,179 @@
+[
+  {
+    "id": "8bad4f5e-896e-46db-ae0f-d71472d3018f",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      },
+      {
+        "text": "번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "48f7e8c0-e984-4a18-8ad5-907a33b91306",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      },
+      {
+        "text": "핸드폰번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "cd180458-8818-4c8a-b5f1-9374592aaeb7",
+    "data": [
+      {
+        "text": "상담",
+        "userDefined": false
+      },
+      {
+        "text": "핸드폰번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b54da524-fd32-4232-a8e0-cf0e2c3e6d64",
+    "data": [
+      {
+        "text": "상담",
+        "userDefined": false
+      },
+      {
+        "text": "폰",
+        "userDefined": false
+      },
+      {
+        "text": "넘버",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "75197b21-fe9a-40a8-a05a-ab29631da9bd",
+    "data": [
+      {
+        "text": "상담",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      },
+      {
+        "text": "번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "7e75d9a3-7513-4998-8cc9-fd35ed009732",
+    "data": [
+      {
+        "text": "상담",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      },
+      {
+        "text": "번호좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "9b1f031d-38ea-4428-8357-38a60ac7c5ce",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      },
+      {
+        "text": "번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "c106e42e-5265-444e-bcf5-991b2f332635",
+    "data": [
+      {
+        "text": "금연상담",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "de61f409-6bef-4ece-a17c-b225d1fd65f3",
+    "data": [
+      {
+        "text": "상담",
+        "userDefined": false
+      },
+      {
+        "text": "전화",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

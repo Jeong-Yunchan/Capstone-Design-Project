@@ -1,0 +1,39 @@
+{
+  "id": "57ccdcff-9cec-4bcb-8f3f-5ee0619445df",
+  "name": "04.Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ko",
+          "speech": [
+            "\"Food detoxifies the nicotine in the body and\nVitamins C, E, beta-carotene, which help the body recover,\nWe recommend eating vegetables and seafood such as broccoli, carrots, spinach, onions, lotus root, and sweet potatoes to eat fiber-rich foods!\"",
+            "I recommend cooking with green onion. Green seaweed is rich in methyl methionine, which removes harmful substances such as tar, nicotine, and cholesterol, which have accumulated in the blood.",
+            "I recommend cooking with sweet pumpkin! It is said that if you quit smoking, you can gain 2-3 kg of weight even if you maintain your usual diet and lifestyle. It is recommended to eat low-calorie foods!!",
+            "I recommend the potato dish!",
+            "\"Ingesting fiber can help you quit smoking and at the same time make it difficult to defecate.\nIt helps those who appeal.”"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

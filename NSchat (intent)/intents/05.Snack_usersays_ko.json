@@ -1,0 +1,54 @@
+[
+  {
+    "id": "b8209725-3cff-4333-a3db-97cc2f524ee2",
+    "data": [
+      {
+        "text": "Snack recommendation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "b7404a84-04f7-4bf8-9ee7-de266099111a",
+    "data": [
+      {
+        "text": "Snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "a8f8e612-72ed-41e6-a0dc-4ef340a74318",
+    "data": [
+      {
+        "text": "What do you like to eat for snacks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "4527519f-f6c1-49af-bb66-89c683f64e15",
+    "data": [
+      {
+        "text": "Recommend a good snack for smoking cessation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

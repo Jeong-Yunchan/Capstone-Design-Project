@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ca27d8c2-b796-481e-b8f7-22d3667b42f2",
+    "data": [
+      {
+        "text": "I quit smoking and I\u0027m depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "490555c3-09df-4296-907e-b89b46d0e4e8",
+    "data": [
+      {
+        "text": "I feel depressed.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "349dd090-bb89-420f-b21f-bbaaf4e16592",
+    "data": [
+      {
+        "text": "I quit smoking and feel depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]

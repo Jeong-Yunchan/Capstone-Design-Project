@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d626f077-059e-47cd-8637-77fdcd877b39",
+    "data": [
+      {
+        "text": "Tell me your phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  },
+  {
+    "id": "52d3d787-c085-49eb-bfd4-f5d32a3ba832",
+    "data": [
+      {
+        "text": "NO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ko",
+    "updated": 0
+  }
+]
