@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
     private TextView NStimeView, SaveMoneyView,HealthView;
     ImageButton parkBtn, chatBtn, retimeBtn, RefreshBtn, SettingBtn;
     String cigar, goal;
-    long StartTime, NowTime, goalbar;
+    long StartTime, NowTime, Goal_time, goalbar;
     int cigarette, goals;
     private static final String DEFAULT_PATTERN = " 목표 %d%%"; //프로그래서 바 패턴
 
@@ -71,8 +71,9 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         SharedPreferences sharedPreferences = getSharedPreferences("NS", MODE_PRIVATE);
         cigar = sharedPreferences.getString("cigar", "0");
         StartTime = sharedPreferences.getLong("time", 0);
+        Goal_time = sharedPreferences.getLong("goal_time",0);
         goal = sharedPreferences.getString("goal","0");
-        long goaltime = (NowTime - StartTime) / 1000;
+        long goaltime = (NowTime - Goal_time) / 1000;
 
 
         cigarette = Integer.parseInt(cigar);
@@ -148,7 +149,6 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                 startActivity(intent);
             }
         });
-
     }
 
     public void TextSettings() {
@@ -189,7 +189,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         else if (tt >= 129600) HealthView.setText("폐기능이 향상되었고\n혈액 순환도 개선되었어요");
         else if (tt >= 4320) HealthView.setText("신체의 니코틴 수치가 감소하기\n시작했어요");
         else if (tt >= 2880) HealthView.setText("손상된 신경이 치유됨에 따라\n후각이 고조되고 미각을 생생하게\n느낄수 있게 되었습니다.");
-        else if (tt >= 1440) HealthView.setText("이제 혈압이 떨어지고 고혈압으로\n인한 심장마비의 위험이 감소하기 시작했어요");
+        else if (tt >= 1440) HealthView.setText("이제 혈압이 떨어지고 고혈압으로\n인한 심장마비의 위험이\n감소하기 시작했어요");
         else if (tt >= 720) HealthView.setText("일산화탄소의 수치가 정상으로 돌아오고\n신체의 산소수치가 증가하고 있어요");
         else if (tt >= 20) HealthView.setText("심박수가 정상으로 돌아오고\n혈액순환이 개선되었어요");
         else HealthView.setText("금연 시작!");
