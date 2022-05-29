@@ -69,6 +69,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         NowTime = System.currentTimeMillis(); //밀리세컨드로 현재시간 받아옴
 
         SharedPreferences sharedPreferences = getSharedPreferences("NS", MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
         cigar = sharedPreferences.getString("cigar", "0");
         StartTime = sharedPreferences.getLong("time", 0);
         Goal_time = sharedPreferences.getLong("goal_time",0);
@@ -82,6 +83,10 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         TextSettings(); // 금연기간, 절약한 금액, 건강상태 설정
 
         goalbar = goaltime*100 / ((long) goals *24*60*60); // 목표 퍼센트 계산
+        circleProgressBar=findViewById(R.id.cpb_circlebar);
+        circleProgressBar.setProgress((int) goalbar);  // 목표 퍼센트 프로그래스바 적용
+        editor.putLong("goal_persent", goalbar);
+        editor.apply();
         /**
          * 목표가 달성되었다면 폭죽 애니메이션 나옴
          */
@@ -101,8 +106,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                     .streamFor(300, 5000L);
 
         }
-        circleProgressBar=findViewById(R.id.cpb_circlebar);
-        circleProgressBar.setProgress((int) goalbar);  // 목표 퍼센트 프로그래스바 적용
+
 
         parkBtn.setOnClickListener(new View.OnClickListener() {
             @Override

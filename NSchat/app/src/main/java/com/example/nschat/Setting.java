@@ -17,8 +17,9 @@ public class Setting extends AppCompatActivity {
 
     EditText SettingGoalText;
     String Goal_set;
-    TextView NowGoal;
+    TextView NowGoal, Goal_state;
     Button Goal_Reset_Btn;
+    long goal_persent;
 
 
     @Override
@@ -28,12 +29,15 @@ public class Setting extends AppCompatActivity {
         SettingGoalText = findViewById(R.id.setting_goals);
         NowGoal = (TextView) findViewById(R.id.nowGoal);
         Goal_Reset_Btn = findViewById(R.id.Goal_Reset_Btn);
+        Goal_state = findViewById(R.id.Goal_state);
 
         Button imageButton = (Button) findViewById(R.id.setsaveBtn);
 
         SharedPreferences sharedPreferences = getSharedPreferences("NS", MODE_PRIVATE);    // NS 이름의 기본모드 설정
         SharedPreferences.Editor editor = sharedPreferences.edit(); //sharedPreferences를 제어할 editor를 선언
         Goal_set = sharedPreferences.getString("goal", "0");
+        goal_persent = sharedPreferences.getLong("goal_persent",0);
+        Goal_state.setText(String.valueOf(goal_persent) +"%");
         NowGoal.setText(Goal_set + " 일");
 
         imageButton.setOnClickListener(new View.OnClickListener() {
@@ -65,7 +69,13 @@ public class Setting extends AppCompatActivity {
                 long GoalTime = System.currentTimeMillis();
 
                 editor.putLong("goal_time", GoalTime);
+                editor.putLong("goal_persent",0);
                 editor.apply();
+                Intent intent = getIntent();
+                finish();
+                startActivity(intent);
+                goal_persent = sharedPreferences.getLong("goal_persent",0);
+                Goal_state.setText(String.valueOf(goal_persent) +"%");
 
             }
         });
