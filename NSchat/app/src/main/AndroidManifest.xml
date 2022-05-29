@@ -11,9 +11,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/main_icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/main_icon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.nschat."
         android:usesCleartextTraffic="true">
@@ -36,6 +36,8 @@
         <activity android:name=".Map.MapsActivity"></activity>
         <activity android:name=".Chatting.ChattingActivity"></activity>
         <activity android:name=".Map.Parsing"></activity>
+        <activity android:name=".Goals_Setting"></activity>
+        <activity android:name="Setting"></activity>
 
     </application>
 </manifest>

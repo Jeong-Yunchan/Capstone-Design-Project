@@ -27,13 +27,12 @@
         android:layout_height="0dp"
         android:layout_marginStart="85dp"
         android:layout_marginLeft="85dp"
-        android:hint=" 입력해주세요"
-
+        android:hint=" 숫자 입력란"
         android:layout_marginTop="7dp"
         android:layout_marginBottom="7dp"
         android:background="@drawable/memo_border"
         android:inputType="number"
-        android:maxLength="3"
+        android:maxLength="2"
         app:layout_constraintBottom_toBottomOf="@+id/cigar_count"
         app:layout_constraintEnd_toStartOf="@+id/cigar_count"
         app:layout_constraintStart_toStartOf="parent"
@@ -53,5 +52,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
