@@ -27,7 +27,7 @@ import nl.dionsegijn.konfetti.models.Size;
 public class MainActivity extends AppCompatActivity implements CircleProgressBar.ProgressFormatter {
 
     private TextView NStimeView, SaveMoneyView,HealthView;
-    ImageButton parkBtn, chatBtn, retimeBtn, RefreshBtn, SettingBtn;
+    ImageButton parkBtn, chatBtn, retimeBtn, RefreshBtn, SettingBtn, helpBtn;
     String cigar, goal;
     long StartTime, NowTime, Goal_time, goalbar;
     int cigarette, goals;
@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         retimeBtn = findViewById(R.id.RetimeBtn);
         parkBtn = findViewById(R.id.parkBtn);
         chatBtn = findViewById(R.id.chatBtn);
+        helpBtn = findViewById(R.id.helpButton); //도움말 버튼
         NStimeView = (TextView) findViewById(R.id.NStimeView);
         SaveMoneyView = (TextView) findViewById(R.id.SaveMoneyView);
         HealthView = (TextView) findViewById(R.id.HstatetView);
@@ -150,6 +151,14 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                 startActivity(intent);
             }
         });
+
+        helpBtn.setOnClickListener(new View.OnClickListener(){ //누르면 도움말 화면 실행
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), HelpActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     public void TextSettings() {
@@ -200,4 +209,6 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
     public CharSequence format(int progress, int max) {
         return String.format(DEFAULT_PATTERN, (int) ((float) progress / (float) max * 100));
     }
+
+
 }

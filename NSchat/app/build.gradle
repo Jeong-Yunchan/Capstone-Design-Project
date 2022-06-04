@@ -58,8 +58,4 @@ dependencies {
     //dialogFlow
     implementation 'com.google.cloud:google-cloud-dialogflow:2.1.0'
     implementation 'io.grpc:grpc-okhttp:1.30.0'
-
-    //material-calendarview
-    implementation 'com.github.prolificinteractive:material-calendarview:2.0.1'
-    implementation 'com.jakewharton.threetenabp:threetenabp:1.1.1'
 }
