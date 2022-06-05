@@ -7,13 +7,13 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="259dp"
-        android:layout_height="140dp"
+        android:layout_width="287dp"
+        android:layout_height="147dp"
         android:layout_marginTop="172dp"
         android:layout_marginEnd="64dp"
         android:layout_marginBottom="98dp"
         android:fontFamily="@font/gompyo"
-        android:text="금연 목표 일 수를 적어주세요"
+        android:text="금연 목표 일 수를\n      알려주세요"
         android:textColor="@color/black"
         android:textSize="35sp"
         app:layout_constraintBottom_toTopOf="@+id/goals_count"
