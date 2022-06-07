@@ -7,6 +7,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -57,6 +58,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
 
         CircleProgressBar circleProgressBar;
 
+        helpBtn = findViewById(R.id.helpButton);
         SettingBtn = findViewById(R.id.settingBtn);
         RefreshBtn = findViewById(R.id.Refresh);
         retimeBtn = findViewById(R.id.RetimeBtn);
@@ -70,6 +72,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         NowTime = System.currentTimeMillis(); //밀리세컨드로 현재시간 받아옴
 
         SharedPreferences sharedPreferences = getSharedPreferences("NS", MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
         cigar = sharedPreferences.getString("cigar", "0");
         StartTime = sharedPreferences.getLong("time", 0);
         Goal_time = sharedPreferences.getLong("goal_time",0);
@@ -83,8 +86,13 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
         TextSettings(); // 금연기간, 절약한 금액, 건강상태 설정
 
         goalbar = goaltime*100 / ((long) goals *24*60*60); // 목표 퍼센트 계산
+
+        circleProgressBar=findViewById(R.id.cpb_circlebar);
+        circleProgressBar.setProgress((int) goalbar);  // 목표 퍼센트 프로그래스바 적용
+        editor.putLong("goal_persent", goalbar);
+        editor.apply();
         /**
-         * 목표가 달성되었다면 폭죽 애니메이션 나옴
+         * 목표가 달성되었다면 폭죽 애니메이션과 박수가 나옴
          */
         if (goalbar >= 100){
             Toast.makeText(MainActivity.this, "목표달성을 축하드립니다!!", Toast.LENGTH_LONG).show();
@@ -100,10 +108,11 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                     .addSizes(new Size(12, 5f))
                     .setPosition(-50f, konfettiView.getWidth() + 50f, -50f, -50f)
                     .streamFor(300, 5000L);
+            MediaPlayer player = MediaPlayer.create(getApplicationContext(), R.raw.pung); //효과음
+            player.start();
 
         }
-        circleProgressBar=findViewById(R.id.cpb_circlebar);
-        circleProgressBar.setProgress((int) goalbar);  // 목표 퍼센트 프로그래스바 적용
+
 
         parkBtn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -151,7 +160,6 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
                 startActivity(intent);
             }
         });
-
         helpBtn.setOnClickListener(new View.OnClickListener(){ //누르면 도움말 화면 실행
             @Override
             public void onClick(View view) {
