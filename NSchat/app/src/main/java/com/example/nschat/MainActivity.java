@@ -28,7 +28,7 @@ import nl.dionsegijn.konfetti.models.Size;
 public class MainActivity extends AppCompatActivity implements CircleProgressBar.ProgressFormatter {
 
     private TextView NStimeView, SaveMoneyView,HealthView;
-    ImageButton parkBtn, chatBtn, retimeBtn, RefreshBtn, SettingBtn;
+    ImageButton parkBtn, chatBtn, retimeBtn, RefreshBtn, SettingBtn, helpBtn;
     String cigar, goal;
     long StartTime, NowTime, Goal_time, goalbar;
     int cigarette, goals;
@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
 
         CircleProgressBar circleProgressBar;
 
+        helpBtn = findViewById(R.id.helpButton);
         SettingBtn = findViewById(R.id.settingBtn);
         RefreshBtn = findViewById(R.id.Refresh);
         retimeBtn = findViewById(R.id.RetimeBtn);
@@ -155,6 +156,13 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(), Setting.class);
+                startActivity(intent);
+            }
+        });
+        helpBtn.setOnClickListener(new View.OnClickListener(){ //누르면 도움말 화면 실행
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getApplicationContext(), HelpActivity.class);
                 startActivity(intent);
             }
         });
