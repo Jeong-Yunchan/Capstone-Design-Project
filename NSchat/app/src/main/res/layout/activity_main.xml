@@ -241,5 +241,16 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="-16dp" />
 
+    <ImageButton
+        android:id="@+id/helpButton"
+        android:background="#00ff0000"
+        android:layout_width="33dp"
+        android:layout_height="31dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintStart_toEndOf="@+id/settingBtn"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_help" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

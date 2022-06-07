@@ -38,6 +38,6 @@
         <activity android:name=".Map.Parsing"></activity>
         <activity android:name=".Goals_Setting"></activity>
         <activity android:name="Setting"></activity>
-
+        <activity android:name="HelpActivity"></activity>
     </application>
 </manifest>
