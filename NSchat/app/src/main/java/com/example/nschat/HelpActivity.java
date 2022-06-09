@@ -9,10 +9,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class HelpActivity extends AppCompatActivity {
 
+    ImageButton helpButton;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
-        ImageButton helpButton;
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_help);

@@ -58,13 +58,12 @@ public class MainActivity extends AppCompatActivity implements CircleProgressBar
 
         CircleProgressBar circleProgressBar;
 
-        helpBtn = findViewById(R.id.helpButton);
+        helpBtn = findViewById(R.id.helpButton); //도움말 버튼
         SettingBtn = findViewById(R.id.settingBtn);
         RefreshBtn = findViewById(R.id.Refresh);
         retimeBtn = findViewById(R.id.RetimeBtn);
         parkBtn = findViewById(R.id.parkBtn);
         chatBtn = findViewById(R.id.chatBtn);
-        helpBtn = findViewById(R.id.helpButton); //도움말 버튼
         NStimeView = (TextView) findViewById(R.id.NStimeView);
         SaveMoneyView = (TextView) findViewById(R.id.SaveMoneyView);
         HealthView = (TextView) findViewById(R.id.HstatetView);
