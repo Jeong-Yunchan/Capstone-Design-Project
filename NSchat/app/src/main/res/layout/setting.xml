@@ -5,21 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <EditText
-        android:id="@+id/setting_goals"
-        android:layout_width="146dp"
-        android:layout_height="45dp"
-        android:background="@drawable/memo_border"
-        android:hint=" 금연 목표 일 수"
-        android:inputType="number"
-        android:maxLength="3"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.883"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.447" />
-
     <TextView
         android:id="@+id/textView5"
         android:layout_width="210dp"
@@ -30,10 +15,40 @@
         android:textSize="35dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.079"
+        app:layout_constraintHorizontal_bias="0.144"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.443" />
+        app:layout_constraintVertical_bias="0.423" />
+
+    <Button
+        android:id="@+id/Goal_Reset_Btn"
+        android:layout_width="183dp"
+        android:layout_height="80dp"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/gompyo"
+        android:text="목표 달성률 초기화"
+        android:textSize="23sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.482"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.554" />
+
+    <EditText
+        android:id="@+id/setting_goals"
+        android:layout_width="146dp"
+        android:layout_height="45dp"
+        android:background="@drawable/memo_border"
+        android:hint=" 금연 목표 일 수"
+        android:inputType="number"
+        android:maxLength="3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.905"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.419" />
 
     <TextView
         android:id="@+id/textView6"
@@ -80,6 +95,20 @@
         app:layout_constraintVertical_bias="0.238" />
 
     <TextView
+        android:id="@+id/Goal_state"
+        android:layout_width="106dp"
+        android:layout_height="34dp"
+        android:fontFamily="@font/gompyo"
+        android:text="TextView"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.767"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.327" />
+
+    <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -93,18 +122,19 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.24" />
 
-    <Button
-        android:id="@+id/Goal_Reset_Btn"
-        android:layout_width="129dp"
-        android:layout_height="50dp"
-        android:backgroundTint="@color/black"
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:fontFamily="@font/gompyo"
-        android:text="목표 초기화"
-        android:textSize="16sp"
+        android:text="목표 달성률 : "
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintHorizontal_bias="0.186"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.34" />
+        app:layout_constraintVertical_bias="0.329" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
